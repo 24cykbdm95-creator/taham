@@ -1,0 +1,2926 @@
+[
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Bozuk ürün aldım",
+      "Ayıplı mal aldım",
+      "Ürünü iade etmek istiyorum",
+      "Paramı geri almak istiyorum"
+    ],
+    "anahtarlar": [
+      "bozuk",
+      "ayıplı",
+      "kusurlu",
+      "iade",
+      "tüketici",
+      "ürün",
+      "para iadesi",
+      "satıcı"
+    ],
+    "cevap": "Ayıplı ürün durumunda tüketici mevzuatında çeşitli seçimlik haklar bulunur. Satıcıya başvurabilir, şartları oluşuyorsa bedel iadesi, değişim veya onarım talep edebilirsiniz. Uyuşmazlığın niteliğine göre Tüketici Hakem Heyetine başvurabilirsiniz.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "İnternetten aldığım ürünü iade etmek istiyorum",
+      "İnternet alışverişinden vazgeçtim",
+      "Online alışverişte cayma hakkım var mı"
+    ],
+    "anahtarlar": [
+      "internet alisverisi",
+      "online",
+      "cayma",
+      "mesafeli satis",
+      "iade",
+      "alisveris"
+    ],
+    "cevap": "Mesafeli satışlarda genel olarak 14 günlük cayma hakkı bulunur. Ancak ürünün türüne ve mevzuattaki istisnalara göre farklılıklar olabilir. Güncel şartları kontrol edin.",
+    "link": "https://www.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "CİMER Başvuruları",
+    "sorular": [
+      "CİMER'e nasıl başvururum",
+      "Bir kamu kurumunu şikâyet etmek istiyorum",
+      "Devlet kurumundan şikâyetçiyim"
+    ],
+    "anahtarlar": [
+      "cimer",
+      "sikayet",
+      "kamu kurumu",
+      "basvuru",
+      "istek",
+      "onerı",
+      "devlet kurumu"
+    ],
+    "cevap": "Kamu kurumlarıyla ilgili istek, şikâyet ve önerilerinizi CİMER üzerinden iletebilirsiniz. Başvurunuzu takip edebilir ve ilgili kurumun yanıtını inceleyebilirsiniz.",
+    "link": "https://www.cimer.gov.tr/",
+    "kaynak": "Cumhurbaşkanlığı İletişim Merkezi"
+  },
+  {
+    "kategori": "e-Devlet İşlemleri",
+    "sorular": [
+      "İkametgâh belgesi nasıl alınır",
+      "Adres belgesi istiyorum",
+      "Yerleşim yeri belgesi nereden alınır"
+    ],
+    "anahtarlar": [
+      "ikametgah",
+      "adres",
+      "yerlesim",
+      "belge",
+      "nufus",
+      "adres kaydi"
+    ],
+    "cevap": "Yerleşim yeri belgenizi e-Devlet üzerinden alabilirsiniz. Sistemde Yerleşim Yeri ve Diğer Adres Belgesi Sorgulama hizmetini aratabilirsiniz.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Sosyal yardım nasıl alınır",
+      "Maddi yardıma ihtiyacım var",
+      "Devlet yardımlarına nasıl başvururum"
+    ],
+    "anahtarlar": [
+      "sosyal yardim",
+      "maddi yardim",
+      "destek",
+      "muhtac",
+      "gelir",
+      "yardim basvurusu"
+    ],
+    "cevap": "Sosyal yardımların türleri ve şartları farklılık gösterir. e-Devlet Sosyal Yardım Başvuru Hizmetini inceleyebilir veya bulunduğunuz yerdeki Sosyal Yardımlaşma ve Dayanışma Vakfına başvurabilirsiniz.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Adli Yardım",
+    "sorular": [
+      "Ücretsiz avukat istiyorum",
+      "Avukat tutacak param yok",
+      "Adli yardım nasıl alınır",
+      "Ücretsiz hukuki destek istiyorum"
+    ],
+    "anahtarlar": [
+      "avukat",
+      "ucretsiz avukat",
+      "adli yardim",
+      "hukuki destek",
+      "baro",
+      "mahkeme",
+      "maddi imkan"
+    ],
+    "cevap": "Maddi imkânları yetersiz olan kişiler, gerekli şartları karşılamaları hâlinde baroların adli yardım hizmetlerinden yararlanabilir. Bulunduğunuz ilin barosunun adli yardım birimine başvurabilirsiniz. Başvurunun kabulü ilgili baronun değerlendirmesine bağlıdır.",
+    "link": "https://www.barobirlik.org.tr/",
+    "kaynak": "Türkiye Barolar Birliği"
+  },
+  {
+    "kategori": "Eğitim Hakları",
+    "sorular": [
+      "Okulda hakkım ihlal edildi",
+      "Öğrenci olarak şikâyet etmek istiyorum",
+      "Okulla ilgili şikâyetim var"
+    ],
+    "anahtarlar": [
+      "okul",
+      "ogrenci",
+      "egitim",
+      "ogretmen",
+      "mudur",
+      "sinav",
+      "not",
+      "disiplin"
+    ],
+    "cevap": "Eğitimle ilgili sorunlarda öncelikle okul yönetimine başvurabilirsiniz. Sorunun çözülmemesi durumunda ilgili ilçe veya il millî eğitim müdürlüğüne müracaat edebilirsiniz.",
+    "link": "https://www.meb.gov.tr/",
+    "kaynak": "Millî Eğitim Bakanlığı"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "Maaşım ödenmedi",
+      "İşveren paramı vermiyor",
+      "İş yerinden paramı alamıyorum",
+      "Ücretim yatırılmadı"
+    ],
+    "anahtarlar": [
+      "maas",
+      "ucret",
+      "iscilik",
+      "isveren",
+      "isci",
+      "odenmedi",
+      "yatmadi",
+      "fazla mesai",
+      "kidem"
+    ],
+    "cevap": "Ödenmeyen ücretler konusunda iş sözleşmesi, bordro ve banka kayıtlarınızı saklayın. Çalışma hayatıyla ilgili bilgi ve başvuru için ALO 170 hattından veya ilgili resmî kanallardan destek alabilirsiniz.",
+    "link": "https://www.csgb.gov.tr/",
+    "kaynak": "Çalışma ve Sosyal Güvenlik Bakanlığı"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "Hastanede hakkım ihlal edildi",
+      "Doktoru şikâyet etmek istiyorum",
+      "Hasta haklarım nelerdir"
+    ],
+    "anahtarlar": [
+      "hastane",
+      "doktor",
+      "hasta",
+      "saglik",
+      "tedavi",
+      "muayene",
+      "sikayet"
+    ],
+    "cevap": "Sağlık hizmetleriyle ilgili sorunlarda hastanenin hasta hakları birimine başvurabilirsiniz. Ayrıca ilgili resmî başvuru kanallarını kullanabilirsiniz.",
+    "link": "https://www.saglik.gov.tr/",
+    "kaynak": "Sağlık Bakanlığı"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli hakları nelerdir",
+      "Engelli raporu nasıl alınır",
+      "Engelli desteğine nasıl başvurulur"
+    ],
+    "anahtarlar": [
+      "engelli",
+      "engel",
+      "engellilik",
+      "rapor",
+      "bakim",
+      "destek",
+      "erisim"
+    ],
+    "cevap": "Engelli bireylere yönelik sosyal destekler, haklar ve başvuru şartları hizmetin türüne göre değişir. Aile ve Sosyal Hizmetler Bakanlığının resmî kaynaklarını inceleyebilirsiniz.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Aile ve Çocuk Hakları",
+    "sorular": [
+      "Aile içi şiddet görüyorum",
+      "Şiddet durumunda nereye başvurabilirim",
+      "Koruma kararı nasıl alınır"
+    ],
+    "anahtarlar": [
+      "siddet",
+      "aile",
+      "cocuk",
+      "koruma",
+      "tehdit",
+      "guvenlik",
+      "kadin"
+    ],
+    "cevap": "Acil tehlike varsa 112 Acil Çağrı Merkezini arayın. Şiddet durumlarında kolluk birimlerine, ŞÖNİM'e veya ilgili sosyal hizmet kuruluşlarına başvurabilirsiniz.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Burs ve Öğrenci Destekleri",
+    "sorular": [
+      "Burs başvurusu nasıl yapılır",
+      "Öğrenci bursu almak istiyorum",
+      "KYK bursuna nasıl başvurulur"
+    ],
+    "anahtarlar": [
+      "burs",
+      "kyk",
+      "ogrenci",
+      "ogrenim",
+      "kredi",
+      "egitim destegi"
+    ],
+    "cevap": "Burs ve öğrenim kredisi başvuruları için Gençlik ve Spor Bakanlığının duyurularını ve e-Devlet hizmetlerini takip edebilirsiniz. Başvuru tarihleri ve şartları ilgili kurum tarafından açıklanır.",
+    "link": "https://www.gsb.gov.tr/",
+    "kaynak": "Gençlik ve Spor Bakanlığı"
+  },
+  {
+    "kategori": "Nüfus ve Vatandaşlık",
+    "sorular": [
+      "Nüfus kayıt örneği nasıl alınır",
+      "Nüfus işlemlerimi nereden yaparım",
+      "Doğum belgesi istiyorum"
+    ],
+    "anahtarlar": [
+      "nufus",
+      "vatandaslik",
+      "dogum",
+      "kimlik",
+      "kayit ornegi",
+      "belge"
+    ],
+    "cevap": "Nüfus kayıt örneği gibi birçok belgeye e-Devlet üzerinden ulaşabilirsiniz. Diğer işlemler için Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünün hizmetlerini inceleyebilirsiniz.",
+    "link": "https://www.nvi.gov.tr/",
+    "kaynak": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü"
+  },
+  {
+    "kategori": "Vergi İşlemleri",
+    "sorular": [
+      "Vergi borcumu nasıl öğrenirim",
+      "Vergi borcu sorgulamak istiyorum",
+      "Vergi işlemlerimi nereden yaparım"
+    ],
+    "anahtarlar": [
+      "vergi",
+      "borc",
+      "gelir idaresi",
+      "beyanname",
+      "odeme",
+      "vergi dairesi"
+    ],
+    "cevap": "Vergi borcu ve diğer vergi işlemlerinizi Gelir İdaresi Başkanlığının dijital hizmetleri üzerinden inceleyebilirsiniz.",
+    "link": "https://www.gib.gov.tr/",
+    "kaynak": "Gelir İdaresi Başkanlığı"
+  },
+  {
+    "kategori": "SGK ve Emeklilik",
+    "sorular": [
+      "Emeklilik durumumu nasıl öğrenirim",
+      "SGK hizmet dökümü nasıl alınır",
+      "Prim günümü nasıl öğrenirim"
+    ],
+    "anahtarlar": [
+      "sgk",
+      "emeklilik",
+      "emekli",
+      "prim",
+      "hizmet dokumu",
+      "sigorta"
+    ],
+    "cevap": "SGK hizmet dökümü, prim bilgileri ve emeklilikle ilgili işlemlerinizi e-Devlet üzerinden takip edebilir, ayrıntılı bilgi için Sosyal Güvenlik Kurumuna başvurabilirsiniz.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "Barınma ve Kira Hakları",
+    "sorular": [
+      "Ev sahibim beni evden çıkarmak istiyor",
+      "Kirayı artırmak istiyor",
+      "Depozitomu geri alamıyorum"
+    ],
+    "anahtarlar": [
+      "ev sahibi",
+      "kiraci",
+      "kira",
+      "tahliye",
+      "depozito",
+      "konut"
+    ],
+    "cevap": "Kira ilişkilerinde hak ve yükümlülükler sözleşmeye ve yürürlükteki mevzuata göre belirlenir. Tahliye veya kira uyuşmazlıklarında hukuki destek almanız ve süreleri kontrol etmeniz önemlidir.",
+    "link": "https://www.barobirlik.org.tr/",
+    "kaynak": "Türkiye Barolar Birliği"
+  },
+  {
+    "kategori": "deneme",
+    "sorular": [
+      "deneme sorusu"
+    ],
+    "anahtarlar": [
+      "deneme"
+    ],
+    "cevap": "bu bir test cevabıdır",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e devlet"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "Ücretsiz avukat desteği alabilir miyim?",
+      "Param yok avukat tutamıyorum",
+      "Adli yardım başvurusu nasıl yapılır?"
+    ],
+    "anahtarlar": [
+      "avukat",
+      "ucretsiz avukat",
+      "adli yardim",
+      "baro",
+      "hukuki destek"
+    ],
+    "cevap": "Maddi durumu hukuki yardım ücretlerini karşılamaya yeterli olmayan kişiler, şartları taşımaları hâlinde adli yardımdan yararlanabilir. Hukuk davaları için bulunduğunuz ilin barosunun adli yardım bürosuna; ceza soruşturmalarında ise müdafi görevlendirilmesi için ilgili adli makamlara başvurabilirsiniz. Başvuru koşulları ve belgeler için baronuzdan bilgi alın.",
+    "link": "https://www.barobirlik.org.tr/",
+    "kaynak": "Türkiye Barolar Birliği"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "Dava açmak istiyorum nereden başlamalıyım?",
+      "Mahkemeye nasıl başvurulur?",
+      "Hukuki bir sorunum var ne yapmalıyım?"
+    ],
+    "anahtarlar": [
+      "dava",
+      "mahkeme",
+      "hukuk",
+      "basvuru",
+      "dilekce"
+    ],
+    "cevap": "Dava açma yolu, uyuşmazlığın türüne ve görevli-yetkili mahkemeye göre değişir. Süre kaçırmamak için belgelerinizi saklayın ve adliyedeki ön bürodan veya bir avukattan usul hakkında bilgi alın. Bu platform hukuki danışmanlık vermez.",
+    "link": "https://www.adalet.gov.tr/",
+    "kaynak": "Adalet Bakanlığı"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "Tebligat geldi ne yapmalıyım?",
+      "Mahkemeden evrak aldım",
+      "Tebligata nasıl cevap verilir?"
+    ],
+    "anahtarlar": [
+      "tebligat",
+      "mahkeme evragi",
+      "sure",
+      "cevap",
+      "itiraz"
+    ],
+    "cevap": "Tebligatlarda cevap veya itiraz için süre bulunabilir. Zarfı ve tebliğ tarihini saklayın; evrakın türünü ve üzerindeki süreyi hemen kontrol edin. Süre hesabı önemli olduğundan adliyeden veya avukattan gecikmeden destek alın.",
+    "link": "https://www.uyap.gov.tr/",
+    "kaynak": "UYAP"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "İcra takibi başlatılmış ne yapmalıyım?",
+      "İcra kağıdı geldi",
+      "Borcuma itiraz etmek istiyorum"
+    ],
+    "anahtarlar": [
+      "icra",
+      "takip",
+      "odeme emri",
+      "itiraz",
+      "borc"
+    ],
+    "cevap": "İcra ödeme emrine karşı itiraz süresi ve yöntemi belgenin türüne göre değişebilir. Evraktaki tebliğ tarihini ve kanun yolunu hemen kontrol edin; süreyi kaçırmadan icra dairesinden veya avukattan bilgi alın.",
+    "link": "https://www.uyap.gov.tr/",
+    "kaynak": "UYAP"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "Arabuluculuk nedir?",
+      "Dava açmadan önce arabulucuya gitmem gerekiyor mu?",
+      "Arabulucuya nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "arabuluculuk",
+      "arabulucu",
+      "uyusmazlik",
+      "dava",
+      "anlasma"
+    ],
+    "cevap": "Bazı özel hukuk uyuşmazlıklarında dava açmadan önce arabuluculuğa başvurmak zorunludur; bazılarında ise isteğe bağlıdır. Uyuşmazlığınızın türüne göre güncel şartları Adalet Bakanlığının arabuluculuk kaynaklarından kontrol edin.",
+    "link": "https://adb.adalet.gov.tr/",
+    "kaynak": "Adalet Bakanlığı Arabuluculuk Daire Başkanlığı"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "UYAP'tan davamı nasıl takip ederim?",
+      "Mahkeme dosyamı nereden görürüm?",
+      "Dava dosyası sorgulama"
+    ],
+    "anahtarlar": [
+      "uyap",
+      "dava dosyasi",
+      "mahkeme",
+      "dosya sorgulama"
+    ],
+    "cevap": "Tarafı olduğunuz ve erişime açık dosyalarınızı e-Devlet üzerinden UYAP Vatandaş Portalı hizmetiyle görüntüleyebilirsiniz. Bazı belge ve işlemler için elektronik imza veya mobil imza gerekebilir.",
+    "link": "https://vatandas.uyap.gov.tr/",
+    "kaynak": "UYAP Vatandaş Portalı"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "Maaşım ödenmedi ne yapabilirim?",
+      "İşveren paramı vermiyor",
+      "Ücretim yatmadı"
+    ],
+    "anahtarlar": [
+      "maas",
+      "ucret",
+      "isveren",
+      "isci",
+      "odenmedi",
+      "yatmadi"
+    ],
+    "cevap": "Ücretinizin ödenmemesi durumunda iş sözleşmesi, bordro, banka kayıtları ve yazışmaları saklayın. Çalışma hayatıyla ilgili bilgi ve yönlendirme için ALO 170'i arayabilir; uyuşmazlığın niteliğine göre arabuluculuk ve yargı yollarını değerlendirebilirsiniz.",
+    "link": "https://www.csgb.gov.tr/alo170/",
+    "kaynak": "Çalışma ve Sosyal Güvenlik Bakanlığı"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "Fazla mesai ücretim ödenmedi",
+      "Fazla çalıştım paramı alamadım",
+      "Mesai ücreti nasıl alınır?"
+    ],
+    "anahtarlar": [
+      "fazla mesai",
+      "fazla calisma",
+      "mesai",
+      "ucret",
+      "is saati"
+    ],
+    "cevap": "Fazla çalışma iddianızı destekleyen puantaj, vardiya çizelgesi, mesaj ve bordro gibi kayıtları saklayın. Ücret ve çalışma süreleriyle ilgili bilgi için ALO 170'ten destek alabilirsiniz. Somut durumunuza göre hukuki değerlendirme gerekebilir.",
+    "link": "https://www.csgb.gov.tr/alo170/",
+    "kaynak": "ALO 170"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "İşten çıkarıldım ne yapmalıyım?",
+      "Haksız yere işten atıldım",
+      "İşten çıkarılmaya itiraz edebilir miyim?"
+    ],
+    "anahtarlar": [
+      "isten cikarma",
+      "fesih",
+      "ise iade",
+      "isveren",
+      "issizlik"
+    ],
+    "cevap": "İşten çıkarılma bildiriminizi, sözleşmenizi ve diğer kayıtları saklayın. İşe iade ve işçilik alacaklarında başvuru süreleri önemlidir; fesih bildiriminin tarihini dikkate alarak gecikmeden avukata veya baronun adli yardım birimine danışın.",
+    "link": "https://www.csgb.gov.tr/",
+    "kaynak": "Çalışma ve Sosyal Güvenlik Bakanlığı"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "Kıdem tazminatı alabilir miyim?",
+      "İşten ayrıldım tazminat hakkım var mı?",
+      "Kıdem tazminatı şartları nelerdir?"
+    ],
+    "anahtarlar": [
+      "kidem tazminati",
+      "tazminat",
+      "isten ayrilma",
+      "calisma suresi"
+    ],
+    "cevap": "Kıdem tazminatı hakkı; çalışma süresi, iş sözleşmesinin sona erme nedeni ve kanundaki koşullara bağlıdır. Her işten ayrılmada otomatik olarak doğmaz. Çalışma belgelerinizi saklayıp ALO 170 veya bir hukuk uzmanından durumunuza özel bilgi alın.",
+    "link": "https://www.csgb.gov.tr/",
+    "kaynak": "Çalışma ve Sosyal Güvenlik Bakanlığı"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "İş yerinde sigortam yapılmıyor",
+      "Sigortasız çalıştırılıyorum",
+      "SGK primim eksik yatıyor"
+    ],
+    "anahtarlar": [
+      "sigortasiz",
+      "sgk",
+      "prim",
+      "eksik gun",
+      "isveren",
+      "sigorta"
+    ],
+    "cevap": "Sigortasız veya eksik bildirildiğinizi düşünüyorsanız çalışma tarihleri, ücret ve iş ilişkisini gösteren belgeleri saklayın. SGK'ya başvurabilir ve ALO 170'ten yönlendirme isteyebilirsiniz.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Aldığım ürün bozuk çıktı",
+      "Ayıplı ürün aldım ne yapmalıyım?",
+      "Kusurlu malı iade edebilir miyim?"
+    ],
+    "anahtarlar": [
+      "bozuk",
+      "ayipli",
+      "kusurlu",
+      "urun",
+      "iade",
+      "tuketici"
+    ],
+    "cevap": "Ayıplı malda tüketici, kanundaki koşullara göre bedel iadesi, bedel indirimi, ücretsiz onarım veya ayıpsız misliyle değişim haklarından uygun olanını kullanabilir. Satıcıya başvurun; uyuşmazlık tutarına göre Tüketici Hakem Heyeti veya tüketici mahkemesi yolu gündeme gelebilir.",
+    "link": "https://tuketici.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "İnternetten aldığım ürünü iade etmek istiyorum",
+      "Online alışverişten vazgeçtim",
+      "Cayma hakkım kaç gün?"
+    ],
+    "anahtarlar": [
+      "internet alisverisi",
+      "online",
+      "cayma",
+      "mesafeli satis",
+      "iade"
+    ],
+    "cevap": "Mesafeli satışlarda genel kural olarak tüketicinin 14 gün içinde gerekçe göstermeden cayma hakkı vardır. Ancak kanunda istisnalar bulunur ve bazı ürün veya hizmetlerde bu hak kullanılamaz. Satıcının cayma bildirimi ve iade koşullarını kontrol edin.",
+    "link": "https://tuketici.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Tüketici Hakem Heyetine nasıl başvururum?",
+      "Satıcı paramı iade etmiyor",
+      "Hakem heyeti başvurusu nereden yapılır?"
+    ],
+    "anahtarlar": [
+      "tuketici hakem heyeti",
+      "hakem heyeti",
+      "satici",
+      "iade",
+      "basvuru"
+    ],
+    "cevap": "Tüketici Hakem Heyetine e-Devlet üzerinden TÜBİS hizmeti aracılığıyla veya yetkili başvuru mercileri üzerinden başvurabilirsiniz. Başvuru parasal sınırları her yıl değişebildiğinden güncel sınırı kontrol edin.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet / Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Aldığım ürünün garantisi var mı?",
+      "Garanti belgesi kayboldu",
+      "Ürün garanti kapsamında mı?"
+    ],
+    "anahtarlar": [
+      "garanti",
+      "garanti belgesi",
+      "tamir",
+      "onarim",
+      "urun"
+    ],
+    "cevap": "Garanti süresi ve kapsamı ürün grubuna ve mevzuata göre belirlenir. Fatura, satış belgesi ve servis kayıtlarını saklayın. Garanti belgesinin kaybolması tek başına tüm tüketici haklarını ortadan kaldırdığı anlamına gelmeyebilir.",
+    "link": "https://tuketici.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Aboneliğimi iptal edemiyorum",
+      "İnternet aboneliğimi kapatmak istiyorum",
+      "Haksız fatura geldi"
+    ],
+    "anahtarlar": [
+      "abonelik",
+      "iptal",
+      "internet",
+      "fatura",
+      "telekom",
+      "haksiz"
+    ],
+    "cevap": "Abonelik fesih talepleri ilgili mevzuat ve sözleşmeye göre alınmalıdır. Başvurunuzu yazılı veya sağlayıcının resmî kanalı üzerinden yapıp başvuru numarasını saklayın. Çözülmezse tüketici başvuru yollarını inceleyin.",
+    "link": "https://tuketici.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "Okulda hakkım ihlal edildi",
+      "Öğrenci olarak şikâyet etmek istiyorum",
+      "Okulla ilgili nereye başvururum?"
+    ],
+    "anahtarlar": [
+      "okul",
+      "ogrenci",
+      "egitim",
+      "ogretmen",
+      "mudur",
+      "sikayet"
+    ],
+    "cevap": "Öncelikle okul yönetimine başvurabilir, çözüm sağlanmazsa ilçe veya il millî eğitim müdürlüğüne müracaat edebilirsiniz. Başvurunuzda olayın tarihini ve varsa belgeleri açıkça belirtin.",
+    "link": "https://www.meb.gov.tr/",
+    "kaynak": "Millî Eğitim Bakanlığı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "KYK bursuna nasıl başvurulur?",
+      "Öğrenci bursu almak istiyorum",
+      "GSB burs başvurusu ne zaman?"
+    ],
+    "anahtarlar": [
+      "kyk",
+      "burs",
+      "ogrenci",
+      "gsb",
+      "ogrenim kredisi"
+    ],
+    "cevap": "GSB burs ve öğrenim kredisi başvuruları Bakanlığın ilan ettiği tarihlerde e-Devlet üzerinden alınır. Başvuru takvimi ve değerlendirme koşulları dönemsel olarak değişebilir; resmî duyuruları takip edin.",
+    "link": "https://www.gsb.gov.tr/",
+    "kaynak": "Gençlik ve Spor Bakanlığı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "Okul disiplin cezasına itiraz edebilir miyim?",
+      "Disiplin cezası aldım ne yapmalıyım?",
+      "Okul cezasına nasıl itiraz edilir?"
+    ],
+    "anahtarlar": [
+      "disiplin",
+      "ceza",
+      "itiraz",
+      "ogrenci",
+      "okul"
+    ],
+    "cevap": "Disiplin işlemlerinde uygulanacak usul ve itiraz yolları öğrencinin okul türüne ve ilgili yönetmeliğe göre değişir. Kararın yazılı örneğini ve tebliğ tarihini alın; okul yönetiminden veya il/ilçe millî eğitim müdürlüğünden itiraz usulünü öğrenin.",
+    "link": "https://www.meb.gov.tr/",
+    "kaynak": "Millî Eğitim Bakanlığı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "Öğrenci belgesi nereden alınır?",
+      "Okuduğuma dair belge lazım",
+      "Eğitim belgesi nasıl çıkarılır?"
+    ],
+    "anahtarlar": [
+      "ogrenci belgesi",
+      "egitim belgesi",
+      "okul kaydi",
+      "e devlet"
+    ],
+    "cevap": "Öğrenci belgesi, eğitim düzeyinize göre e-Devlet veya okulunuzun öğrenci işleri üzerinden alınabilir. Hizmetin görünmemesi durumunda okul yönetimiyle görüşün.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "Bursum kesildi ne yapmalıyım?",
+      "KYK bursum yatmadı",
+      "Öğrenim kredisi veya burs durumumu nasıl öğrenirim?"
+    ],
+    "anahtarlar": [
+      "burs",
+      "kesildi",
+      "yatmadi",
+      "kyk",
+      "ogrenim kredisi"
+    ],
+    "cevap": "Burs veya kredi durumunuzu e-Devlet ve GSB'nin resmî kanallarından kontrol edin. Kesilme veya ödeme sorunu varsa başvuru dönemini, kayıt durumunuzu ve açıklanan şartları inceleyerek GSB'ye başvurun.",
+    "link": "https://www.gsb.gov.tr/",
+    "kaynak": "Gençlik ve Spor Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Sosyal yardım nasıl alabilirim?",
+      "Maddi yardıma ihtiyacım var",
+      "Devlet yardımlarına nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "sosyal yardim",
+      "maddi yardim",
+      "destek",
+      "gelir",
+      "yardim basvurusu"
+    ],
+    "cevap": "Sosyal yardım türleri ve şartları hane geliri, ihtiyaç durumu ve yardım programına göre değişir. e-Devlet Sosyal Yardım Başvuru Hizmetini kullanabilir veya ikamet ettiğiniz yerdeki Sosyal Yardımlaşma ve Dayanışma Vakfına başvurabilirsiniz.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Elektrik tüketim desteği alabilir miyim?",
+      "Elektrik faturası yardımı var mı?",
+      "Elektrik desteğine nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "elektrik destegi",
+      "fatura yardimi",
+      "elektrik faturasi",
+      "sosyal yardim"
+    ],
+    "cevap": "Elektrik tüketim desteği belirli sosyal yardım hak sahiplerine yönelik koşullarla uygulanabilir. Uygunluk ve güncel uygulama için Sosyal Yardımlaşma ve Dayanışma Vakfına veya e-Devlet'teki ilgili hizmetlere başvurun.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Doğalgaz yardımı alabilir miyim?",
+      "Doğalgaz faturamı ödeyemiyorum",
+      "Doğalgaz desteği başvurusu nereden?"
+    ],
+    "anahtarlar": [
+      "dogalgaz yardimi",
+      "dogalgaz destegi",
+      "fatura",
+      "sosyal destek"
+    ],
+    "cevap": "Doğal gaz tüketim desteğinin başvuru ve yararlanma koşulları resmî program duyurularına göre belirlenir. e-Devlet üzerinden ilgili sosyal yardım hizmetini kontrol edin veya SYDV'ye danışın.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet / Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Gıda yardımı nasıl alınır?",
+      "Erzak yardımı başvurusu yapmak istiyorum",
+      "Gıda desteği var mı?"
+    ],
+    "anahtarlar": [
+      "gida yardimi",
+      "erzak",
+      "gida destegi",
+      "sosyal yardim"
+    ],
+    "cevap": "Gıda yardımları yerel ihtiyaç değerlendirmesi ve yürütülen programlara göre sağlanabilir. İkamet ettiğiniz yerdeki Sosyal Yardımlaşma ve Dayanışma Vakfına veya belediyenizin sosyal yardım birimine başvurabilirsiniz.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Sosyal yardım başvurumun sonucunu nasıl öğrenirim?",
+      "Yardım başvurum kabul edildi mi?",
+      "Sosyal yardım sorgulama nereden yapılır?"
+    ],
+    "anahtarlar": [
+      "yardim sorgulama",
+      "basvuru sonucu",
+      "sosyal yardim",
+      "e devlet"
+    ],
+    "cevap": "Başvuru durumunuzu e-Devlet'teki ilgili sosyal yardım sorgulama hizmetinden kontrol edebilirsiniz. Başvuruyu alan SYDV ile iletişime geçerek eksik belge veya değerlendirme süreci hakkında bilgi alabilirsiniz.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "Hastanede hasta haklarım ihlal edildi",
+      "Doktoru şikâyet etmek istiyorum",
+      "Hasta hakları birimine nasıl başvururum?"
+    ],
+    "anahtarlar": [
+      "hasta haklari",
+      "hastane",
+      "doktor",
+      "saglik",
+      "sikayet"
+    ],
+    "cevap": "Sağlık hizmetiyle ilgili sorunlarda hastanenin Hasta Hakları Birimine başvurabilirsiniz. Başvurunuzun kayıt numarasını saklayın. Gerekirse Sağlık Bakanlığının resmî iletişim kanallarını kullanın.",
+    "link": "https://hastahaklari.saglik.gov.tr/",
+    "kaynak": "Sağlık Bakanlığı"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "MHRS'den nasıl randevu alırım?",
+      "Hastane randevusu almak istiyorum",
+      "Doktor randevusu nereden alınır?"
+    ],
+    "anahtarlar": [
+      "mhrs",
+      "randevu",
+      "hastane",
+      "muayene",
+      "doktor"
+    ],
+    "cevap": "Hastane randevularınızı MHRS internet sitesi, mobil uygulaması veya ALO 182 üzerinden alabilirsiniz. Randevu uygunluğu hastane ve branşa göre değişir.",
+    "link": "https://www.mhrs.gov.tr/",
+    "kaynak": "Merkezi Hekim Randevu Sistemi"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "Sağlık raporumu nereden görürüm?",
+      "Tahlil sonuçlarıma nasıl ulaşırım?",
+      "e-Nabız kullanmak istiyorum"
+    ],
+    "anahtarlar": [
+      "e nabiz",
+      "tahlil",
+      "sonuc",
+      "saglik raporu",
+      "tetkik"
+    ],
+    "cevap": "Sağlık kayıtlarınızın erişime açık bölümlerini e-Nabız üzerinden görüntüleyebilirsiniz. Sisteme e-Devlet ile giriş yapabilirsiniz. Hatalı kayıt veya erişim sorunu için sağlık kuruluşunuzla görüşün.",
+    "link": "https://enabiz.gov.tr/",
+    "kaynak": "e-Nabız"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "Acil durumda hangi numarayı aramalıyım?",
+      "Ambulans nasıl çağrılır?",
+      "Acil sağlık yardımı lazım"
+    ],
+    "anahtarlar": [
+      "112",
+      "ambulans",
+      "acil",
+      "saglik acil",
+      "yardim"
+    ],
+    "cevap": "Hayati tehlike veya acil sağlık ihtiyacında 112 Acil Çağrı Merkezi'ni arayın. Acil olmayan sağlık danışmanlığı için aile hekiminiz veya sağlık kuruluşunuzla iletişime geçin.",
+    "link": "https://www.112.gov.tr/",
+    "kaynak": "112 Acil Çağrı Merkezi"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli sağlık kurulu raporu nasıl alınır?",
+      "Engelli raporuna başvurmak istiyorum",
+      "Engellilik raporu nereden çıkarılır?"
+    ],
+    "anahtarlar": [
+      "engelli raporu",
+      "saglik kurulu",
+      "engellilik",
+      "hastane"
+    ],
+    "cevap": "Engelli sağlık kurulu raporu, yetkili hastanelerde ilgili mevzuata göre düzenlenir. Başvuru için yetkili hastanelerin sağlık kurulu biriminden güncel belge ve randevu koşullarını öğrenin.",
+    "link": "https://www.saglik.gov.tr/",
+    "kaynak": "Sağlık Bakanlığı"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli aylığına nasıl başvurulur?",
+      "Engelli maaşı almak istiyorum",
+      "Engelli sosyal desteği var mı?"
+    ],
+    "anahtarlar": [
+      "engelli ayligi",
+      "engelli maasi",
+      "sosyal destek",
+      "engelli",
+      "gelir"
+    ],
+    "cevap": "Engelli aylığı için engellilik oranı, yaş, sosyal güvence ve hane gelirine ilişkin kanuni koşullar bulunur. Güncel şartlar ve başvuru için Aile ve Sosyal Hizmetler Bakanlığı veya SYDV ile görüşün.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli kimlik kartı nasıl alınır?",
+      "Engelli kartı başvurusu nereden yapılır?",
+      "Engelli kimlik kartı istiyorum"
+    ],
+    "anahtarlar": [
+      "engelli kimlik karti",
+      "engelli karti",
+      "basvuru",
+      "engelli"
+    ],
+    "cevap": "Engelli kimlik kartı başvurusu ve gerekli belgeler için Aile ve Sosyal Hizmetler İl Müdürlüğüne veya e-Devlet'teki ilgili hizmete başvurabilirsiniz. Güncel başvuru koşullarını resmî kanaldan kontrol edin.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli bireyler için evde bakım yardımı var mı?",
+      "Evde bakım desteğine nasıl başvurulur?",
+      "Bakım yardımı şartları nelerdir?"
+    ],
+    "anahtarlar": [
+      "evde bakim",
+      "bakim yardimi",
+      "engelli",
+      "bakim destegi"
+    ],
+    "cevap": "Evde bakım yardımı, ilgili sağlık ve gelir koşulları ile bakım ihtiyacına ilişkin değerlendirmeye bağlıdır. Başvuru ve güncel şartlar için Aile ve Sosyal Hizmetler İl Müdürlüğüne veya SYDV'ye danışın.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi yakını olarak hangi haklardan yararlanabilirim?",
+      "Gazi çocuğuyum haklarım nelerdir?",
+      "Şehit yakını ve gazilere sağlanan hakları nereden öğrenirim?"
+    ],
+    "anahtarlar": [
+      "gazi",
+      "gazi yakini",
+      "sehit yakini",
+      "gazi cocugu",
+      "haklar"
+    ],
+    "cevap": "Şehit yakınları, gaziler ve gazi yakınlarına yönelik hak ve hizmetler kişinin statüsüne, ilgili mevzuata ve başvuru koşullarına göre değişir. Güncel bilgi için Aile ve Sosyal Hizmetler Bakanlığının ilgili birimlerine veya il müdürlüğüne başvurun.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi yakını ücretsiz ulaşım hakkından nasıl yararlanır?",
+      "Ücretsiz seyahat kartı nasıl alınır?",
+      "Gazi yakını ulaşım kartı başvurusu"
+    ],
+    "anahtarlar": [
+      "ucretsiz ulasim",
+      "seyahat karti",
+      "gazi yakini",
+      "sehit yakini",
+      "ulasim"
+    ],
+    "cevap": "Ücretsiz seyahat hakkı, kanunda belirtilen kişi grupları ve kart koşulları çerçevesinde uygulanır. Hangi aile bireylerinin yararlanabileceği statüye göre değişebileceğinden Aile ve Sosyal Hizmetler İl Müdürlüğünden veya ilgili kart biriminden teyit alın.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi yakını istihdam hakkı var mı?",
+      "Kamuda iş hakkı başvurusu nasıl yapılır?",
+      "Şehit yakını veya gazi yakını iş başvurusu"
+    ],
+    "anahtarlar": [
+      "istihdam",
+      "is hakki",
+      "kamu",
+      "gazi yakini",
+      "sehit yakini",
+      "atama"
+    ],
+    "cevap": "Kamu istihdamına ilişkin haklar, kanunda tanımlanan statü ve hak sahibi kapsamına göre uygulanır. Başvuru şartları, belge ve takvim için Aile ve Sosyal Hizmetler Bakanlığının şehit yakınları ve gaziler biriminden bilgi alın.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi çocuğu eğitim desteği alabilir mi?",
+      "Şehit yakını öğrenci destekleri nelerdir?",
+      "Gazi yakını burs veya eğitim hakkı"
+    ],
+    "anahtarlar": [
+      "egitim destegi",
+      "burs",
+      "gazi cocugu",
+      "sehit yakini",
+      "ogrenim"
+    ],
+    "cevap": "Eğitim alanındaki destekler kişinin şehit yakını veya gazi yakını statüsüne ve yürürlükteki programlara göre değişebilir. Öğrenim düzeyinizi ve statünüzü belirten belgelerle Aile ve Sosyal Hizmetler Bakanlığına ve ilgili eğitim kurumuna danışın.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi kartımı kaybettim ne yapmalıyım?",
+      "Gazi kimlik kartı nasıl yenilenir?",
+      "Gazi kartı başvurusu nereye yapılır?"
+    ],
+    "anahtarlar": [
+      "gazi karti",
+      "kimlik karti",
+      "kayip",
+      "yenileme",
+      "gazi"
+    ],
+    "cevap": "Gazi kimlik kartının kaybolması veya yenilenmesi durumunda başvuru usulü statünüze göre değişebilir. Aile ve Sosyal Hizmetler İl Müdürlüğüyle iletişime geçerek gerekli belgeleri ve güncel işlemi öğrenin.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Aile ve Çocuk Hakları",
+    "sorular": [
+      "Aile içi şiddet görüyorum ne yapmalıyım?",
+      "Şiddet durumunda nereye başvurabilirim?",
+      "Koruma kararı nasıl istenir?"
+    ],
+    "anahtarlar": [
+      "aile ici siddet",
+      "siddet",
+      "koruma karari",
+      "tehdit",
+      "guvenlik"
+    ],
+    "cevap": "Acil tehlike varsa 112'yi arayın veya kolluk birimine başvurun. Şiddete maruz kalanlar ŞÖNİM, ALO 183 ve ilgili sosyal hizmet birimlerinden destek isteyebilir. Koruyucu ve önleyici tedbirler için yetkili makamlara başvurulabilir.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Aile ve Çocuk Hakları",
+    "sorular": [
+      "Çocuk hakları ihlal edilirse nereye başvurulur?",
+      "Çocuğa kötü davranılıyor ne yapmalıyım?",
+      "Çocuk için yardım hattı var mı?"
+    ],
+    "anahtarlar": [
+      "cocuk haklari",
+      "cocuk istismari",
+      "ihmal",
+      "siddet",
+      "alo 183"
+    ],
+    "cevap": "Çocuğun güvenliği tehlikedeyse 112'yi veya kolluk birimlerini arayın. Sosyal destek ve bildirim için ALO 183'e başvurabilirsiniz. Acil riskte çevrim içi başvuruyla yetinmeyin.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Aile ve Çocuk Hakları",
+    "sorular": [
+      "Boşanma süreci hakkında nereden bilgi alırım?",
+      "Boşanmak istiyorum ne yapmalıyım?",
+      "Aile mahkemesine nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "bosanma",
+      "aile mahkemesi",
+      "velayet",
+      "nafaka",
+      "hukuki destek"
+    ],
+    "cevap": "Boşanma, velayet ve nafaka konuları somut olaya göre değerlendirilir. Maddi imkânınız yoksa baronun adli yardım birimine başvurabilirsiniz. Dava ve cevap süreleri için gecikmeden hukuki destek alın.",
+    "link": "https://www.barobirlik.org.tr/",
+    "kaynak": "Türkiye Barolar Birliği"
+  },
+  {
+    "kategori": "Aile ve Çocuk Hakları",
+    "sorular": [
+      "Nafaka ödenmiyor ne yapabilirim?",
+      "Nafakamı alamıyorum",
+      "Nafaka kararı uygulanmıyor"
+    ],
+    "anahtarlar": [
+      "nafaka",
+      "odeme",
+      "icra",
+      "aile mahkemesi",
+      "alacak"
+    ],
+    "cevap": "Mahkeme kararıyla hükmedilen nafakanın ödenmemesi durumunda icra yolları gündeme gelebilir. Karar örneğini ve ödeme kayıtlarını saklayarak bir avukata veya baronun adli yardım birimine danışın.",
+    "link": "https://www.uyap.gov.tr/",
+    "kaynak": "UYAP"
+  },
+  {
+    "kategori": "SGK ve Emeklilik",
+    "sorular": [
+      "SGK hizmet dökümümü nasıl alırım?",
+      "Prim günümü nereden öğrenirim?",
+      "Sigorta geçmişimi görmek istiyorum"
+    ],
+    "anahtarlar": [
+      "sgk",
+      "hizmet dokumu",
+      "prim",
+      "sigorta",
+      "e devlet"
+    ],
+    "cevap": "SGK tescil ve hizmet dökümü bilgilerinizi e-Devlet üzerinden görüntüleyebilirsiniz. Bilgilerde hata olduğunu düşünüyorsanız SGK müdürlüğüne başvurun.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "SGK ve Emeklilik",
+    "sorular": [
+      "Emeklilik yaşımı nasıl öğrenirim?",
+      "Ne zaman emekli olabilirim?",
+      "Emeklilik şartlarımı nereden sorgularım?"
+    ],
+    "anahtarlar": [
+      "emeklilik",
+      "emekli",
+      "yas",
+      "prim gunu",
+      "emeklilik sorgulama"
+    ],
+    "cevap": "Emeklilik koşulları ilk sigortalılık tarihi, statü, prim günü ve mevzuata göre değişir. e-Devlet ve SGK hizmetlerinden bilgilerinizi kontrol edin; kesin değerlendirme için SGK'ya başvurun.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "SGK ve Emeklilik",
+    "sorular": [
+      "Emekli maaşım yatmadı",
+      "Emekli aylığım ödenmedi",
+      "Emekli maaşımı nereden sorgularım?"
+    ],
+    "anahtarlar": [
+      "emekli maasi",
+      "aylik",
+      "odeme",
+      "yatmadi",
+      "sgk"
+    ],
+    "cevap": "Emekli aylığı ödeme bilgilerinizi e-Devlet üzerinden kontrol edin. Ödeme veya kesinti sorunu varsa SGK ile iletişime geçerek dosyanızdaki açıklamayı öğrenin.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "Vergi İşlemleri",
+    "sorular": [
+      "Vergi borcumu nasıl öğrenirim?",
+      "Vergi borcu sorgulamak istiyorum",
+      "Vergi borcumu nereden öderim?"
+    ],
+    "anahtarlar": [
+      "vergi",
+      "borc",
+      "gelir idaresi",
+      "odeme",
+      "vergi dairesi"
+    ],
+    "cevap": "Vergi borcu ve ödeme bilgilerinizi Gelir İdaresi Başkanlığının Dijital Vergi Dairesi hizmetlerinden kontrol edebilirsiniz. İşlemin türüne göre e-Devlet hizmetleri de kullanılabilir.",
+    "link": "https://dijital.gib.gov.tr/",
+    "kaynak": "Gelir İdaresi Başkanlığı"
+  },
+  {
+    "kategori": "Vergi İşlemleri",
+    "sorular": [
+      "Vergi levhası nasıl alınır?",
+      "Vergi levhamı nereden çıkarırım?",
+      "Vergi levhası sorgulama"
+    ],
+    "anahtarlar": [
+      "vergi levhasi",
+      "gelir idaresi",
+      "isletme",
+      "sorgulama"
+    ],
+    "cevap": "Vergi levhası işlemleri Gelir İdaresi Başkanlığının dijital hizmetleri üzerinden yürütülebilir. Güncel işlem adımlarını Dijital Vergi Dairesinden kontrol edin.",
+    "link": "https://dijital.gib.gov.tr/",
+    "kaynak": "Gelir İdaresi Başkanlığı"
+  },
+  {
+    "kategori": "CİMER ve Kamu Başvuruları",
+    "sorular": [
+      "CİMER'e nasıl şikâyet gönderirim?",
+      "Kamu kurumunu şikâyet etmek istiyorum",
+      "Devlet kurumuna başvuru yapmak istiyorum"
+    ],
+    "anahtarlar": [
+      "cimer",
+      "sikayet",
+      "kamu kurumu",
+      "basvuru",
+      "istek"
+    ],
+    "cevap": "Kamu kurumlarıyla ilgili istek, şikâyet ve önerilerinizi CİMER üzerinden iletebilirsiniz. Başvurunuzda olay ve talebinizi açıkça yazın; başvuru numarasıyla süreci takip edin.",
+    "link": "https://www.cimer.gov.tr/",
+    "kaynak": "Cumhurbaşkanlığı İletişim Merkezi"
+  },
+  {
+    "kategori": "e-Devlet İşlemleri",
+    "sorular": [
+      "İkametgâh belgesi nasıl alınır?",
+      "Yerleşim yeri belgesi istiyorum",
+      "Adres belgesi nereden çıkarılır?"
+    ],
+    "anahtarlar": [
+      "ikametgah",
+      "yerlesim yeri",
+      "adres",
+      "belge",
+      "e devlet"
+    ],
+    "cevap": "Yerleşim yeri belgesini e-Devlet'teki ilgili nüfus hizmetinden alabilirsiniz. Belgeye erişemiyorsanız Nüfus ve Vatandaşlık İşleri Müdürlüğüne başvurun.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "Ücretsiz avukat desteği alabilir miyim?",
+      "Param yok avukat tutamıyorum",
+      "Adli yardım başvurusu nasıl yapılır?"
+    ],
+    "anahtarlar": [
+      "avukat",
+      "ucretsiz avukat",
+      "adli yardim",
+      "baro",
+      "hukuki destek"
+    ],
+    "cevap": "Maddi durumu hukuki yardım ücretlerini karşılamaya yeterli olmayan kişiler, şartları taşımaları hâlinde adli yardımdan yararlanabilir. Hukuk davaları için bulunduğunuz ilin barosunun adli yardım bürosuna; ceza soruşturmalarında ise müdafi görevlendirilmesi için ilgili adli makamlara başvurabilirsiniz. Başvuru koşulları ve belgeler için baronuzdan bilgi alın.",
+    "link": "https://www.barobirlik.org.tr/",
+    "kaynak": "Türkiye Barolar Birliği"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "Dava açmak istiyorum nereden başlamalıyım?",
+      "Mahkemeye nasıl başvurulur?",
+      "Hukuki bir sorunum var ne yapmalıyım?"
+    ],
+    "anahtarlar": [
+      "dava",
+      "mahkeme",
+      "hukuk",
+      "basvuru",
+      "dilekce"
+    ],
+    "cevap": "Dava açma yolu, uyuşmazlığın türüne ve görevli-yetkili mahkemeye göre değişir. Süre kaçırmamak için belgelerinizi saklayın ve adliyedeki ön bürodan veya bir avukattan usul hakkında bilgi alın. Bu platform hukuki danışmanlık vermez.",
+    "link": "https://www.adalet.gov.tr/",
+    "kaynak": "Adalet Bakanlığı"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "Tebligat geldi ne yapmalıyım?",
+      "Mahkemeden evrak aldım",
+      "Tebligata nasıl cevap verilir?"
+    ],
+    "anahtarlar": [
+      "tebligat",
+      "mahkeme evragi",
+      "sure",
+      "cevap",
+      "itiraz"
+    ],
+    "cevap": "Tebligatlarda cevap veya itiraz için süre bulunabilir. Zarfı ve tebliğ tarihini saklayın; evrakın türünü ve üzerindeki süreyi hemen kontrol edin. Süre hesabı önemli olduğundan adliyeden veya avukattan gecikmeden destek alın.",
+    "link": "https://www.uyap.gov.tr/",
+    "kaynak": "UYAP"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "İcra takibi başlatılmış ne yapmalıyım?",
+      "İcra kağıdı geldi",
+      "Borcuma itiraz etmek istiyorum"
+    ],
+    "anahtarlar": [
+      "icra",
+      "takip",
+      "odeme emri",
+      "itiraz",
+      "borc"
+    ],
+    "cevap": "İcra ödeme emrine karşı itiraz süresi ve yöntemi belgenin türüne göre değişebilir. Evraktaki tebliğ tarihini ve kanun yolunu hemen kontrol edin; süreyi kaçırmadan icra dairesinden veya avukattan bilgi alın.",
+    "link": "https://www.uyap.gov.tr/",
+    "kaynak": "UYAP"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "Arabuluculuk nedir?",
+      "Dava açmadan önce arabulucuya gitmem gerekiyor mu?",
+      "Arabulucuya nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "arabuluculuk",
+      "arabulucu",
+      "uyusmazlik",
+      "dava",
+      "anlasma"
+    ],
+    "cevap": "Bazı özel hukuk uyuşmazlıklarında dava açmadan önce arabuluculuğa başvurmak zorunludur; bazılarında ise isteğe bağlıdır. Uyuşmazlığınızın türüne göre güncel şartları Adalet Bakanlığının arabuluculuk kaynaklarından kontrol edin.",
+    "link": "https://adb.adalet.gov.tr/",
+    "kaynak": "Adalet Bakanlığı Arabuluculuk Daire Başkanlığı"
+  },
+  {
+    "kategori": "Adalet ve Hukuki Destek",
+    "sorular": [
+      "UYAP'tan davamı nasıl takip ederim?",
+      "Mahkeme dosyamı nereden görürüm?",
+      "Dava dosyası sorgulama"
+    ],
+    "anahtarlar": [
+      "uyap",
+      "dava dosyasi",
+      "mahkeme",
+      "dosya sorgulama"
+    ],
+    "cevap": "Tarafı olduğunuz ve erişime açık dosyalarınızı e-Devlet üzerinden UYAP Vatandaş Portalı hizmetiyle görüntüleyebilirsiniz. Bazı belge ve işlemler için elektronik imza veya mobil imza gerekebilir.",
+    "link": "https://vatandas.uyap.gov.tr/",
+    "kaynak": "UYAP Vatandaş Portalı"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "Maaşım ödenmedi ne yapabilirim?",
+      "İşveren paramı vermiyor",
+      "Ücretim yatmadı"
+    ],
+    "anahtarlar": [
+      "maas",
+      "ucret",
+      "isveren",
+      "isci",
+      "odenmedi",
+      "yatmadi"
+    ],
+    "cevap": "Ücretinizin ödenmemesi durumunda iş sözleşmesi, bordro, banka kayıtları ve yazışmaları saklayın. Çalışma hayatıyla ilgili bilgi ve yönlendirme için ALO 170'i arayabilir; uyuşmazlığın niteliğine göre arabuluculuk ve yargı yollarını değerlendirebilirsiniz.",
+    "link": "https://www.csgb.gov.tr/alo170/",
+    "kaynak": "Çalışma ve Sosyal Güvenlik Bakanlığı"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "Fazla mesai ücretim ödenmedi",
+      "Fazla çalıştım paramı alamadım",
+      "Mesai ücreti nasıl alınır?"
+    ],
+    "anahtarlar": [
+      "fazla mesai",
+      "fazla calisma",
+      "mesai",
+      "ucret",
+      "is saati"
+    ],
+    "cevap": "Fazla çalışma iddianızı destekleyen puantaj, vardiya çizelgesi, mesaj ve bordro gibi kayıtları saklayın. Ücret ve çalışma süreleriyle ilgili bilgi için ALO 170'ten destek alabilirsiniz. Somut durumunuza göre hukuki değerlendirme gerekebilir.",
+    "link": "https://www.csgb.gov.tr/alo170/",
+    "kaynak": "ALO 170"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "İşten çıkarıldım ne yapmalıyım?",
+      "Haksız yere işten atıldım",
+      "İşten çıkarılmaya itiraz edebilir miyim?"
+    ],
+    "anahtarlar": [
+      "isten cikarma",
+      "fesih",
+      "ise iade",
+      "isveren",
+      "issizlik"
+    ],
+    "cevap": "İşten çıkarılma bildiriminizi, sözleşmenizi ve diğer kayıtları saklayın. İşe iade ve işçilik alacaklarında başvuru süreleri önemlidir; fesih bildiriminin tarihini dikkate alarak gecikmeden avukata veya baronun adli yardım birimine danışın.",
+    "link": "https://www.csgb.gov.tr/",
+    "kaynak": "Çalışma ve Sosyal Güvenlik Bakanlığı"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "Kıdem tazminatı alabilir miyim?",
+      "İşten ayrıldım tazminat hakkım var mı?",
+      "Kıdem tazminatı şartları nelerdir?"
+    ],
+    "anahtarlar": [
+      "kidem tazminati",
+      "tazminat",
+      "isten ayrilma",
+      "calisma suresi"
+    ],
+    "cevap": "Kıdem tazminatı hakkı; çalışma süresi, iş sözleşmesinin sona erme nedeni ve kanundaki koşullara bağlıdır. Her işten ayrılmada otomatik olarak doğmaz. Çalışma belgelerinizi saklayıp ALO 170 veya bir hukuk uzmanından durumunuza özel bilgi alın.",
+    "link": "https://www.csgb.gov.tr/",
+    "kaynak": "Çalışma ve Sosyal Güvenlik Bakanlığı"
+  },
+  {
+    "kategori": "Çalışma ve İşçi Hakları",
+    "sorular": [
+      "İş yerinde sigortam yapılmıyor",
+      "Sigortasız çalıştırılıyorum",
+      "SGK primim eksik yatıyor"
+    ],
+    "anahtarlar": [
+      "sigortasiz",
+      "sgk",
+      "prim",
+      "eksik gun",
+      "isveren",
+      "sigorta"
+    ],
+    "cevap": "Sigortasız veya eksik bildirildiğinizi düşünüyorsanız çalışma tarihleri, ücret ve iş ilişkisini gösteren belgeleri saklayın. SGK'ya başvurabilir ve ALO 170'ten yönlendirme isteyebilirsiniz.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Aldığım ürün bozuk çıktı",
+      "Ayıplı ürün aldım ne yapmalıyım?",
+      "Kusurlu malı iade edebilir miyim?"
+    ],
+    "anahtarlar": [
+      "bozuk",
+      "ayipli",
+      "kusurlu",
+      "urun",
+      "iade",
+      "tuketici"
+    ],
+    "cevap": "Ayıplı malda tüketici, kanundaki koşullara göre bedel iadesi, bedel indirimi, ücretsiz onarım veya ayıpsız misliyle değişim haklarından uygun olanını kullanabilir. Satıcıya başvurun; uyuşmazlık tutarına göre Tüketici Hakem Heyeti veya tüketici mahkemesi yolu gündeme gelebilir.",
+    "link": "https://tuketici.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "İnternetten aldığım ürünü iade etmek istiyorum",
+      "Online alışverişten vazgeçtim",
+      "Cayma hakkım kaç gün?"
+    ],
+    "anahtarlar": [
+      "internet alisverisi",
+      "online",
+      "cayma",
+      "mesafeli satis",
+      "iade"
+    ],
+    "cevap": "Mesafeli satışlarda genel kural olarak tüketicinin 14 gün içinde gerekçe göstermeden cayma hakkı vardır. Ancak kanunda istisnalar bulunur ve bazı ürün veya hizmetlerde bu hak kullanılamaz. Satıcının cayma bildirimi ve iade koşullarını kontrol edin.",
+    "link": "https://tuketici.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Tüketici Hakem Heyetine nasıl başvururum?",
+      "Satıcı paramı iade etmiyor",
+      "Hakem heyeti başvurusu nereden yapılır?"
+    ],
+    "anahtarlar": [
+      "tuketici hakem heyeti",
+      "hakem heyeti",
+      "satici",
+      "iade",
+      "basvuru"
+    ],
+    "cevap": "Tüketici Hakem Heyetine e-Devlet üzerinden TÜBİS hizmeti aracılığıyla veya yetkili başvuru mercileri üzerinden başvurabilirsiniz. Başvuru parasal sınırları her yıl değişebildiğinden güncel sınırı kontrol edin.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet / Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Aldığım ürünün garantisi var mı?",
+      "Garanti belgesi kayboldu",
+      "Ürün garanti kapsamında mı?"
+    ],
+    "anahtarlar": [
+      "garanti",
+      "garanti belgesi",
+      "tamir",
+      "onarim",
+      "urun"
+    ],
+    "cevap": "Garanti süresi ve kapsamı ürün grubuna ve mevzuata göre belirlenir. Fatura, satış belgesi ve servis kayıtlarını saklayın. Garanti belgesinin kaybolması tek başına tüm tüketici haklarını ortadan kaldırdığı anlamına gelmeyebilir.",
+    "link": "https://tuketici.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Aboneliğimi iptal edemiyorum",
+      "İnternet aboneliğimi kapatmak istiyorum",
+      "Haksız fatura geldi"
+    ],
+    "anahtarlar": [
+      "abonelik",
+      "iptal",
+      "internet",
+      "fatura",
+      "telekom",
+      "haksiz"
+    ],
+    "cevap": "Abonelik fesih talepleri ilgili mevzuat ve sözleşmeye göre alınmalıdır. Başvurunuzu yazılı veya sağlayıcının resmî kanalı üzerinden yapıp başvuru numarasını saklayın. Çözülmezse tüketici başvuru yollarını inceleyin.",
+    "link": "https://tuketici.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "Okulda hakkım ihlal edildi",
+      "Öğrenci olarak şikâyet etmek istiyorum",
+      "Okulla ilgili nereye başvururum?"
+    ],
+    "anahtarlar": [
+      "okul",
+      "ogrenci",
+      "egitim",
+      "ogretmen",
+      "mudur",
+      "sikayet"
+    ],
+    "cevap": "Öncelikle okul yönetimine başvurabilir, çözüm sağlanmazsa ilçe veya il millî eğitim müdürlüğüne müracaat edebilirsiniz. Başvurunuzda olayın tarihini ve varsa belgeleri açıkça belirtin.",
+    "link": "https://www.meb.gov.tr/",
+    "kaynak": "Millî Eğitim Bakanlığı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "KYK bursuna nasıl başvurulur?",
+      "Öğrenci bursu almak istiyorum",
+      "GSB burs başvurusu ne zaman?"
+    ],
+    "anahtarlar": [
+      "kyk",
+      "burs",
+      "ogrenci",
+      "gsb",
+      "ogrenim kredisi"
+    ],
+    "cevap": "GSB burs ve öğrenim kredisi başvuruları Bakanlığın ilan ettiği tarihlerde e-Devlet üzerinden alınır. Başvuru takvimi ve değerlendirme koşulları dönemsel olarak değişebilir; resmî duyuruları takip edin.",
+    "link": "https://www.gsb.gov.tr/",
+    "kaynak": "Gençlik ve Spor Bakanlığı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "Okul disiplin cezasına itiraz edebilir miyim?",
+      "Disiplin cezası aldım ne yapmalıyım?",
+      "Okul cezasına nasıl itiraz edilir?"
+    ],
+    "anahtarlar": [
+      "disiplin",
+      "ceza",
+      "itiraz",
+      "ogrenci",
+      "okul"
+    ],
+    "cevap": "Disiplin işlemlerinde uygulanacak usul ve itiraz yolları öğrencinin okul türüne ve ilgili yönetmeliğe göre değişir. Kararın yazılı örneğini ve tebliğ tarihini alın; okul yönetiminden veya il/ilçe millî eğitim müdürlüğünden itiraz usulünü öğrenin.",
+    "link": "https://www.meb.gov.tr/",
+    "kaynak": "Millî Eğitim Bakanlığı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "Öğrenci belgesi nereden alınır?",
+      "Okuduğuma dair belge lazım",
+      "Eğitim belgesi nasıl çıkarılır?"
+    ],
+    "anahtarlar": [
+      "ogrenci belgesi",
+      "egitim belgesi",
+      "okul kaydi",
+      "e devlet"
+    ],
+    "cevap": "Öğrenci belgesi, eğitim düzeyinize göre e-Devlet veya okulunuzun öğrenci işleri üzerinden alınabilir. Hizmetin görünmemesi durumunda okul yönetimiyle görüşün.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci Hakları",
+    "sorular": [
+      "Bursum kesildi ne yapmalıyım?",
+      "KYK bursum yatmadı",
+      "Öğrenim kredisi veya burs durumumu nasıl öğrenirim?"
+    ],
+    "anahtarlar": [
+      "burs",
+      "kesildi",
+      "yatmadi",
+      "kyk",
+      "ogrenim kredisi"
+    ],
+    "cevap": "Burs veya kredi durumunuzu e-Devlet ve GSB'nin resmî kanallarından kontrol edin. Kesilme veya ödeme sorunu varsa başvuru dönemini, kayıt durumunuzu ve açıklanan şartları inceleyerek GSB'ye başvurun.",
+    "link": "https://www.gsb.gov.tr/",
+    "kaynak": "Gençlik ve Spor Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Sosyal yardım nasıl alabilirim?",
+      "Maddi yardıma ihtiyacım var",
+      "Devlet yardımlarına nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "sosyal yardim",
+      "maddi yardim",
+      "destek",
+      "gelir",
+      "yardim basvurusu"
+    ],
+    "cevap": "Sosyal yardım türleri ve şartları hane geliri, ihtiyaç durumu ve yardım programına göre değişir. e-Devlet Sosyal Yardım Başvuru Hizmetini kullanabilir veya ikamet ettiğiniz yerdeki Sosyal Yardımlaşma ve Dayanışma Vakfına başvurabilirsiniz.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Elektrik tüketim desteği alabilir miyim?",
+      "Elektrik faturası yardımı var mı?",
+      "Elektrik desteğine nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "elektrik destegi",
+      "fatura yardimi",
+      "elektrik faturasi",
+      "sosyal yardim"
+    ],
+    "cevap": "Elektrik tüketim desteği belirli sosyal yardım hak sahiplerine yönelik koşullarla uygulanabilir. Uygunluk ve güncel uygulama için Sosyal Yardımlaşma ve Dayanışma Vakfına veya e-Devlet'teki ilgili hizmetlere başvurun.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Doğalgaz yardımı alabilir miyim?",
+      "Doğalgaz faturamı ödeyemiyorum",
+      "Doğalgaz desteği başvurusu nereden?"
+    ],
+    "anahtarlar": [
+      "dogalgaz yardimi",
+      "dogalgaz destegi",
+      "fatura",
+      "sosyal destek"
+    ],
+    "cevap": "Doğal gaz tüketim desteğinin başvuru ve yararlanma koşulları resmî program duyurularına göre belirlenir. e-Devlet üzerinden ilgili sosyal yardım hizmetini kontrol edin veya SYDV'ye danışın.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet / Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Gıda yardımı nasıl alınır?",
+      "Erzak yardımı başvurusu yapmak istiyorum",
+      "Gıda desteği var mı?"
+    ],
+    "anahtarlar": [
+      "gida yardimi",
+      "erzak",
+      "gida destegi",
+      "sosyal yardim"
+    ],
+    "cevap": "Gıda yardımları yerel ihtiyaç değerlendirmesi ve yürütülen programlara göre sağlanabilir. İkamet ettiğiniz yerdeki Sosyal Yardımlaşma ve Dayanışma Vakfına veya belediyenizin sosyal yardım birimine başvurabilirsiniz.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Sosyal yardım başvurumun sonucunu nasıl öğrenirim?",
+      "Yardım başvurum kabul edildi mi?",
+      "Sosyal yardım sorgulama nereden yapılır?"
+    ],
+    "anahtarlar": [
+      "yardim sorgulama",
+      "basvuru sonucu",
+      "sosyal yardim",
+      "e devlet"
+    ],
+    "cevap": "Başvuru durumunuzu e-Devlet'teki ilgili sosyal yardım sorgulama hizmetinden kontrol edebilirsiniz. Başvuruyu alan SYDV ile iletişime geçerek eksik belge veya değerlendirme süreci hakkında bilgi alabilirsiniz.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "Hastanede hasta haklarım ihlal edildi",
+      "Doktoru şikâyet etmek istiyorum",
+      "Hasta hakları birimine nasıl başvururum?"
+    ],
+    "anahtarlar": [
+      "hasta haklari",
+      "hastane",
+      "doktor",
+      "saglik",
+      "sikayet"
+    ],
+    "cevap": "Sağlık hizmetiyle ilgili sorunlarda hastanenin Hasta Hakları Birimine başvurabilirsiniz. Başvurunuzun kayıt numarasını saklayın. Gerekirse Sağlık Bakanlığının resmî iletişim kanallarını kullanın.",
+    "link": "https://hastahaklari.saglik.gov.tr/",
+    "kaynak": "Sağlık Bakanlığı"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "MHRS'den nasıl randevu alırım?",
+      "Hastane randevusu almak istiyorum",
+      "Doktor randevusu nereden alınır?"
+    ],
+    "anahtarlar": [
+      "mhrs",
+      "randevu",
+      "hastane",
+      "muayene",
+      "doktor"
+    ],
+    "cevap": "Hastane randevularınızı MHRS internet sitesi, mobil uygulaması veya ALO 182 üzerinden alabilirsiniz. Randevu uygunluğu hastane ve branşa göre değişir.",
+    "link": "https://www.mhrs.gov.tr/",
+    "kaynak": "Merkezi Hekim Randevu Sistemi"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "Sağlık raporumu nereden görürüm?",
+      "Tahlil sonuçlarıma nasıl ulaşırım?",
+      "e-Nabız kullanmak istiyorum"
+    ],
+    "anahtarlar": [
+      "e nabiz",
+      "tahlil",
+      "sonuc",
+      "saglik raporu",
+      "tetkik"
+    ],
+    "cevap": "Sağlık kayıtlarınızın erişime açık bölümlerini e-Nabız üzerinden görüntüleyebilirsiniz. Sisteme e-Devlet ile giriş yapabilirsiniz. Hatalı kayıt veya erişim sorunu için sağlık kuruluşunuzla görüşün.",
+    "link": "https://enabiz.gov.tr/",
+    "kaynak": "e-Nabız"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "Acil durumda hangi numarayı aramalıyım?",
+      "Ambulans nasıl çağrılır?",
+      "Acil sağlık yardımı lazım"
+    ],
+    "anahtarlar": [
+      "112",
+      "ambulans",
+      "acil",
+      "saglik acil",
+      "yardim"
+    ],
+    "cevap": "Hayati tehlike veya acil sağlık ihtiyacında 112 Acil Çağrı Merkezi'ni arayın. Acil olmayan sağlık danışmanlığı için aile hekiminiz veya sağlık kuruluşunuzla iletişime geçin.",
+    "link": "https://www.112.gov.tr/",
+    "kaynak": "112 Acil Çağrı Merkezi"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli sağlık kurulu raporu nasıl alınır?",
+      "Engelli raporuna başvurmak istiyorum",
+      "Engellilik raporu nereden çıkarılır?"
+    ],
+    "anahtarlar": [
+      "engelli raporu",
+      "saglik kurulu",
+      "engellilik",
+      "hastane"
+    ],
+    "cevap": "Engelli sağlık kurulu raporu, yetkili hastanelerde ilgili mevzuata göre düzenlenir. Başvuru için yetkili hastanelerin sağlık kurulu biriminden güncel belge ve randevu koşullarını öğrenin.",
+    "link": "https://www.saglik.gov.tr/",
+    "kaynak": "Sağlık Bakanlığı"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli aylığına nasıl başvurulur?",
+      "Engelli maaşı almak istiyorum",
+      "Engelli sosyal desteği var mı?"
+    ],
+    "anahtarlar": [
+      "engelli ayligi",
+      "engelli maasi",
+      "sosyal destek",
+      "engelli",
+      "gelir"
+    ],
+    "cevap": "Engelli aylığı için engellilik oranı, yaş, sosyal güvence ve hane gelirine ilişkin kanuni koşullar bulunur. Güncel şartlar ve başvuru için Aile ve Sosyal Hizmetler Bakanlığı veya SYDV ile görüşün.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli kimlik kartı nasıl alınır?",
+      "Engelli kartı başvurusu nereden yapılır?",
+      "Engelli kimlik kartı istiyorum"
+    ],
+    "anahtarlar": [
+      "engelli kimlik karti",
+      "engelli karti",
+      "basvuru",
+      "engelli"
+    ],
+    "cevap": "Engelli kimlik kartı başvurusu ve gerekli belgeler için Aile ve Sosyal Hizmetler İl Müdürlüğüne veya e-Devlet'teki ilgili hizmete başvurabilirsiniz. Güncel başvuru koşullarını resmî kanaldan kontrol edin.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli bireyler için evde bakım yardımı var mı?",
+      "Evde bakım desteğine nasıl başvurulur?",
+      "Bakım yardımı şartları nelerdir?"
+    ],
+    "anahtarlar": [
+      "evde bakim",
+      "bakim yardimi",
+      "engelli",
+      "bakim destegi"
+    ],
+    "cevap": "Evde bakım yardımı, ilgili sağlık ve gelir koşulları ile bakım ihtiyacına ilişkin değerlendirmeye bağlıdır. Başvuru ve güncel şartlar için Aile ve Sosyal Hizmetler İl Müdürlüğüne veya SYDV'ye danışın.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi yakını olarak hangi haklardan yararlanabilirim?",
+      "Gazi çocuğuyum haklarım nelerdir?",
+      "Şehit yakını ve gazilere sağlanan hakları nereden öğrenirim?"
+    ],
+    "anahtarlar": [
+      "gazi",
+      "gazi yakini",
+      "sehit yakini",
+      "gazi cocugu",
+      "haklar"
+    ],
+    "cevap": "Şehit yakınları, gaziler ve gazi yakınlarına yönelik hak ve hizmetler kişinin statüsüne, ilgili mevzuata ve başvuru koşullarına göre değişir. Güncel bilgi için Aile ve Sosyal Hizmetler Bakanlığının ilgili birimlerine veya il müdürlüğüne başvurun.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi yakını ücretsiz ulaşım hakkından nasıl yararlanır?",
+      "Ücretsiz seyahat kartı nasıl alınır?",
+      "Gazi yakını ulaşım kartı başvurusu"
+    ],
+    "anahtarlar": [
+      "ucretsiz ulasim",
+      "seyahat karti",
+      "gazi yakini",
+      "sehit yakini",
+      "ulasim"
+    ],
+    "cevap": "Ücretsiz seyahat hakkı, kanunda belirtilen kişi grupları ve kart koşulları çerçevesinde uygulanır. Hangi aile bireylerinin yararlanabileceği statüye göre değişebileceğinden Aile ve Sosyal Hizmetler İl Müdürlüğünden veya ilgili kart biriminden teyit alın.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi yakını istihdam hakkı var mı?",
+      "Kamuda iş hakkı başvurusu nasıl yapılır?",
+      "Şehit yakını veya gazi yakını iş başvurusu"
+    ],
+    "anahtarlar": [
+      "istihdam",
+      "is hakki",
+      "kamu",
+      "gazi yakini",
+      "sehit yakini",
+      "atama"
+    ],
+    "cevap": "Kamu istihdamına ilişkin haklar, kanunda tanımlanan statü ve hak sahibi kapsamına göre uygulanır. Başvuru şartları, belge ve takvim için Aile ve Sosyal Hizmetler Bakanlığının şehit yakınları ve gaziler biriminden bilgi alın.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi çocuğu eğitim desteği alabilir mi?",
+      "Şehit yakını öğrenci destekleri nelerdir?",
+      "Gazi yakını burs veya eğitim hakkı"
+    ],
+    "anahtarlar": [
+      "egitim destegi",
+      "burs",
+      "gazi cocugu",
+      "sehit yakini",
+      "ogrenim"
+    ],
+    "cevap": "Eğitim alanındaki destekler kişinin şehit yakını veya gazi yakını statüsüne ve yürürlükteki programlara göre değişebilir. Öğrenim düzeyinizi ve statünüzü belirten belgelerle Aile ve Sosyal Hizmetler Bakanlığına ve ilgili eğitim kurumuna danışın.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi kartımı kaybettim ne yapmalıyım?",
+      "Gazi kimlik kartı nasıl yenilenir?",
+      "Gazi kartı başvurusu nereye yapılır?"
+    ],
+    "anahtarlar": [
+      "gazi karti",
+      "kimlik karti",
+      "kayip",
+      "yenileme",
+      "gazi"
+    ],
+    "cevap": "Gazi kimlik kartının kaybolması veya yenilenmesi durumunda başvuru usulü statünüze göre değişebilir. Aile ve Sosyal Hizmetler İl Müdürlüğüyle iletişime geçerek gerekli belgeleri ve güncel işlemi öğrenin.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Aile ve Çocuk Hakları",
+    "sorular": [
+      "Aile içi şiddet görüyorum ne yapmalıyım?",
+      "Şiddet durumunda nereye başvurabilirim?",
+      "Koruma kararı nasıl istenir?"
+    ],
+    "anahtarlar": [
+      "aile ici siddet",
+      "siddet",
+      "koruma karari",
+      "tehdit",
+      "guvenlik"
+    ],
+    "cevap": "Acil tehlike varsa 112'yi arayın veya kolluk birimine başvurun. Şiddete maruz kalanlar ŞÖNİM, ALO 183 ve ilgili sosyal hizmet birimlerinden destek isteyebilir. Koruyucu ve önleyici tedbirler için yetkili makamlara başvurulabilir.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Aile ve Çocuk Hakları",
+    "sorular": [
+      "Çocuk hakları ihlal edilirse nereye başvurulur?",
+      "Çocuğa kötü davranılıyor ne yapmalıyım?",
+      "Çocuk için yardım hattı var mı?"
+    ],
+    "anahtarlar": [
+      "cocuk haklari",
+      "cocuk istismari",
+      "ihmal",
+      "siddet",
+      "alo 183"
+    ],
+    "cevap": "Çocuğun güvenliği tehlikedeyse 112'yi veya kolluk birimlerini arayın. Sosyal destek ve bildirim için ALO 183'e başvurabilirsiniz. Acil riskte çevrim içi başvuruyla yetinmeyin.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Aile ve Çocuk Hakları",
+    "sorular": [
+      "Boşanma süreci hakkında nereden bilgi alırım?",
+      "Boşanmak istiyorum ne yapmalıyım?",
+      "Aile mahkemesine nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "bosanma",
+      "aile mahkemesi",
+      "velayet",
+      "nafaka",
+      "hukuki destek"
+    ],
+    "cevap": "Boşanma, velayet ve nafaka konuları somut olaya göre değerlendirilir. Maddi imkânınız yoksa baronun adli yardım birimine başvurabilirsiniz. Dava ve cevap süreleri için gecikmeden hukuki destek alın.",
+    "link": "https://www.barobirlik.org.tr/",
+    "kaynak": "Türkiye Barolar Birliği"
+  },
+  {
+    "kategori": "Aile ve Çocuk Hakları",
+    "sorular": [
+      "Nafaka ödenmiyor ne yapabilirim?",
+      "Nafakamı alamıyorum",
+      "Nafaka kararı uygulanmıyor"
+    ],
+    "anahtarlar": [
+      "nafaka",
+      "odeme",
+      "icra",
+      "aile mahkemesi",
+      "alacak"
+    ],
+    "cevap": "Mahkeme kararıyla hükmedilen nafakanın ödenmemesi durumunda icra yolları gündeme gelebilir. Karar örneğini ve ödeme kayıtlarını saklayarak bir avukata veya baronun adli yardım birimine danışın.",
+    "link": "https://www.uyap.gov.tr/",
+    "kaynak": "UYAP"
+  },
+  {
+    "kategori": "SGK ve Emeklilik",
+    "sorular": [
+      "SGK hizmet dökümümü nasıl alırım?",
+      "Prim günümü nereden öğrenirim?",
+      "Sigorta geçmişimi görmek istiyorum"
+    ],
+    "anahtarlar": [
+      "sgk",
+      "hizmet dokumu",
+      "prim",
+      "sigorta",
+      "e devlet"
+    ],
+    "cevap": "SGK tescil ve hizmet dökümü bilgilerinizi e-Devlet üzerinden görüntüleyebilirsiniz. Bilgilerde hata olduğunu düşünüyorsanız SGK müdürlüğüne başvurun.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "SGK ve Emeklilik",
+    "sorular": [
+      "Emeklilik yaşımı nasıl öğrenirim?",
+      "Ne zaman emekli olabilirim?",
+      "Emeklilik şartlarımı nereden sorgularım?"
+    ],
+    "anahtarlar": [
+      "emeklilik",
+      "emekli",
+      "yas",
+      "prim gunu",
+      "emeklilik sorgulama"
+    ],
+    "cevap": "Emeklilik koşulları ilk sigortalılık tarihi, statü, prim günü ve mevzuata göre değişir. e-Devlet ve SGK hizmetlerinden bilgilerinizi kontrol edin; kesin değerlendirme için SGK'ya başvurun.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "SGK ve Emeklilik",
+    "sorular": [
+      "Emekli maaşım yatmadı",
+      "Emekli aylığım ödenmedi",
+      "Emekli maaşımı nereden sorgularım?"
+    ],
+    "anahtarlar": [
+      "emekli maasi",
+      "aylik",
+      "odeme",
+      "yatmadi",
+      "sgk"
+    ],
+    "cevap": "Emekli aylığı ödeme bilgilerinizi e-Devlet üzerinden kontrol edin. Ödeme veya kesinti sorunu varsa SGK ile iletişime geçerek dosyanızdaki açıklamayı öğrenin.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "Vergi İşlemleri",
+    "sorular": [
+      "Vergi borcumu nasıl öğrenirim?",
+      "Vergi borcu sorgulamak istiyorum",
+      "Vergi borcumu nereden öderim?"
+    ],
+    "anahtarlar": [
+      "vergi",
+      "borc",
+      "gelir idaresi",
+      "odeme",
+      "vergi dairesi"
+    ],
+    "cevap": "Vergi borcu ve ödeme bilgilerinizi Gelir İdaresi Başkanlığının Dijital Vergi Dairesi hizmetlerinden kontrol edebilirsiniz. İşlemin türüne göre e-Devlet hizmetleri de kullanılabilir.",
+    "link": "https://dijital.gib.gov.tr/",
+    "kaynak": "Gelir İdaresi Başkanlığı"
+  },
+  {
+    "kategori": "Vergi İşlemleri",
+    "sorular": [
+      "Vergi levhası nasıl alınır?",
+      "Vergi levhamı nereden çıkarırım?",
+      "Vergi levhası sorgulama"
+    ],
+    "anahtarlar": [
+      "vergi levhasi",
+      "gelir idaresi",
+      "isletme",
+      "sorgulama"
+    ],
+    "cevap": "Vergi levhası işlemleri Gelir İdaresi Başkanlığının dijital hizmetleri üzerinden yürütülebilir. Güncel işlem adımlarını Dijital Vergi Dairesinden kontrol edin.",
+    "link": "https://dijital.gib.gov.tr/",
+    "kaynak": "Gelir İdaresi Başkanlığı"
+  },
+  {
+    "kategori": "CİMER ve Kamu Başvuruları",
+    "sorular": [
+      "CİMER'e nasıl şikâyet gönderirim?",
+      "Kamu kurumunu şikâyet etmek istiyorum",
+      "Devlet kurumuna başvuru yapmak istiyorum"
+    ],
+    "anahtarlar": [
+      "cimer",
+      "sikayet",
+      "kamu kurumu",
+      "basvuru",
+      "istek"
+    ],
+    "cevap": "Kamu kurumlarıyla ilgili istek, şikâyet ve önerilerinizi CİMER üzerinden iletebilirsiniz. Başvurunuzda olay ve talebinizi açıkça yazın; başvuru numarasıyla süreci takip edin.",
+    "link": "https://www.cimer.gov.tr/",
+    "kaynak": "Cumhurbaşkanlığı İletişim Merkezi"
+  },
+  {
+    "kategori": "e-Devlet İşlemleri",
+    "sorular": [
+      "İkametgâh belgesi nasıl alınır?",
+      "Yerleşim yeri belgesi istiyorum",
+      "Adres belgesi nereden çıkarılır?"
+    ],
+    "anahtarlar": [
+      "ikametgah",
+      "yerlesim yeri",
+      "adres",
+      "belge",
+      "e devlet"
+    ],
+    "cevap": "Yerleşim yeri belgesini e-Devlet'teki ilgili nüfus hizmetinden alabilirsiniz. Belgeye erişemiyorsanız Nüfus ve Vatandaşlık İşleri Müdürlüğüne başvurun.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet"
+  },
+  {
+    "kategori": "Adli Yardım",
+    "sorular": [
+      "Avukat tutacak param yok, ücretsiz avukat nasıl alabilirim?",
+      "Maddi durumum iyi değil, devlet avukat veriyor mu?",
+      "Adli yardım başvurusu nereye yapılır?"
+    ],
+    "anahtarlar": [
+      "ücretsiz avukat",
+      "adli yardım",
+      "baro",
+      "maddi durum"
+    ],
+    "cevap": "Maddi imkânı yetersiz olan kişiler, şartları taşıdıklarında adli yardımdan yararlanabilir. Hukuk davaları için bulunduğunuz ilin barosunun adli yardım bürosuna; ceza soruşturmalarında ise müdafi görevlendirilmesi için ilgili adli makamlara başvurabilirsiniz. İstenen belgeler ve değerlendirme usulü baroya göre değişebilir. Bu bilgi genel bilgilendirmedir; somut durumunuz için barodan destek alın.",
+    "link": "https://www.barobirlik.org.tr/",
+    "kaynak": "Türkiye Barolar Birliği"
+  },
+  {
+    "kategori": "Adli Yardım",
+    "sorular": [
+      "Mahkemeye başvururken harç ödeyemiyorsam ne yapmalıyım?",
+      "Dava masraflarını karşılayamıyorum, muafiyet var mı?"
+    ],
+    "anahtarlar": [
+      "yargılama gideri",
+      "harç",
+      "gider avansı",
+      "adli yardım"
+    ],
+    "cevap": "Maddi durumu yargılama giderlerini karşılamaya elvermeyen kişiler, ilgili mahkemeden adli yardım talep edebilir. Talep, davanın türüne ve koşullara göre değerlendirilir; kabul garantisi yoktur. Başvuru öncesinde baronun adli yardım biriminden veya mahkeme kaleminden güncel bilgi alın.",
+    "link": "https://www.mevzuat.gov.tr/",
+    "kaynak": "Mevzuat Bilgi Sistemi"
+  },
+  {
+    "kategori": "CİMER ve Başvuru",
+    "sorular": [
+      "Bir kamu kurumunu şikâyet etmek istiyorum, nereye yazabilirim?",
+      "Devlet dairesiyle ilgili şikâyetimi nasıl iletirim?"
+    ],
+    "anahtarlar": [
+      "şikâyet",
+      "kamu kurumu",
+      "CİMER",
+      "başvuru"
+    ],
+    "cevap": "Kamu kurumları hakkındaki talep, öneri ve şikâyetler CİMER üzerinden iletilebilir. Başvuruda olayın tarihini, ilgili kurumu ve talebinizi açıkça yazın; kimlik ve iletişim bilgilerinizi doğru girin. Acil müdahale gerektiren durumlarda CİMER yerine ilgili acil hattı veya kurumu kullanın.",
+    "link": "https://www.cimer.gov.tr/",
+    "kaynak": "Cumhurbaşkanlığı İletişim Merkezi"
+  },
+  {
+    "kategori": "CİMER ve Başvuru",
+    "sorular": [
+      "CİMER başvuruma nasıl bakarım?",
+      "CİMER şikâyetimin sonucunu nereden öğrenebilirim?"
+    ],
+    "anahtarlar": [
+      "CİMER",
+      "başvuru sorgulama",
+      "başvuru numarası",
+      "sonuç"
+    ],
+    "cevap": "CİMER başvurunuzun durumunu CİMER'in resmî internet sitesindeki başvuru sorgulama alanından takip edebilirsiniz. Başvuru numaranızı ve istenen doğrulama bilgilerini hazır bulundurun. Sonuç görünmüyorsa CİMER'in resmî iletişim kanallarını kullanın.",
+    "link": "https://www.cimer.gov.tr/",
+    "kaynak": "Cumhurbaşkanlığı İletişim Merkezi"
+  },
+  {
+    "kategori": "CİMER ve Başvuru",
+    "sorular": [
+      "Dilekçe hakkımı nasıl kullanabilirim?",
+      "Kamu kurumuna dilekçe vermek istiyorum, nasıl yazılır?"
+    ],
+    "anahtarlar": [
+      "dilekçe hakkı",
+      "başvuru",
+      "kamu kurumu",
+      "dilekçe"
+    ],
+    "cevap": "Dilekçede başvurulan makamı, konuyu, açık talebi, tarih ve imzayı belirtin; iletişim bilgilerinizi ekleyin. Olayları kısa, anlaşılır ve mümkünse belgelerle destekleyerek anlatın. Başvuruyu kurumun kabul ettiği resmî kanaldan iletip kayıt numarasını saklayın.",
+    "link": "https://www.mevzuat.gov.tr/",
+    "kaynak": "Türkiye Cumhuriyeti Anayasası ve ilgili mevzuat"
+  },
+  {
+    "kategori": "e-Devlet",
+    "sorular": [
+      "e-Devlet şifremi unuttum, ne yapmalıyım?",
+      "e-Devlet hesabıma giremiyorum, şifremi nasıl yenilerim?"
+    ],
+    "anahtarlar": [
+      "e-Devlet",
+      "şifre yenileme",
+      "hesap erişimi",
+      "PTT"
+    ],
+    "cevap": "e-Devlet şifrenizi unuttuysanız resmî giriş ekranındaki şifre yenileme seçeneklerini kontrol edin. Daha önce telefon numaranızı doğruladıysanız çevrim içi yenileme seçenekleri sunulabilir; aksi durumda PTT veya e-Devlet'in açıkladığı diğer kimlik doğrulama yöntemlerine başvurabilirsiniz. Şifrenizi kimseyle paylaşmayın.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet Kapısı"
+  },
+  {
+    "kategori": "e-Devlet",
+    "sorular": [
+      "e-Devlet üzerinden ikametgâh belgesi nasıl alınır?",
+      "Yerleşim yeri belgesini internetten çıkarabilir miyim?"
+    ],
+    "anahtarlar": [
+      "ikametgâh",
+      "yerleşim yeri belgesi",
+      "e-Devlet",
+      "belge"
+    ],
+    "cevap": "Yerleşim yeri (ikametgâh) belgesi, e-Devlet Kapısı'nda Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü hizmetleri üzerinden alınabilir. Belgeyi oluştururken kullanım amacını doğru seçin; barkodlu belgeyi ilgili kuruma elektronik veya basılı olarak sunabilirsiniz.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet Kapısı – Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Aldığım ürün bozuk çıktı, ne yapabilirim?",
+      "Ayıplı mal aldım, paramı geri alabilir miyim?"
+    ],
+    "anahtarlar": [
+      "ayıplı mal",
+      "iade",
+      "değişim",
+      "tüketici hakem heyeti"
+    ],
+    "cevap": "Ürün ayıplıysa öncelikle satıcıya yazılı şekilde başvurup bedel iadesi, değişim, ücretsiz onarım veya bedel indirimi gibi kanundaki seçimlik haklarınızı bildirebilirsiniz. Uyuşmazlığın parasal sınırına göre Tüketici Hakem Heyetine veya tüketici mahkemesine başvuru gündeme gelebilir. Fatura, sipariş ve yazışmaları saklayın.",
+    "link": "https://tuketicihakemheyeti.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı – Tüketici Hakem Heyetleri"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "İnternetten aldığım ürünü kaç gün içinde iade edebilirim?",
+      "Online alışverişte cayma hakkı kaç gün?"
+    ],
+    "anahtarlar": [
+      "mesafeli satış",
+      "cayma hakkı",
+      "14 gün",
+      "internet alışverişi"
+    ],
+    "cevap": "Mesafeli satışlarda tüketicinin genel olarak teslimden itibaren 14 gün içinde gerekçe göstermeden cayma hakkı bulunur. Ancak kanunda bazı mal ve hizmetler için istisnalar vardır. Satıcıya cayma bildiriminizi süresi içinde ve ispatlanabilir bir yöntemle iletin; ürün türüne göre istisnaları kontrol edin.",
+    "link": "https://www.mevzuat.gov.tr/",
+    "kaynak": "Mesafeli Sözleşmeler Yönetmeliği"
+  },
+  {
+    "kategori": "Tüketici Hakları",
+    "sorular": [
+      "Satıcı iade kabul etmiyor, nereye şikâyet edebilirim?",
+      "Mağaza paramı geri vermiyor, nasıl başvururum?"
+    ],
+    "anahtarlar": [
+      "iade reddi",
+      "tüketici şikâyeti",
+      "hakem heyeti",
+      "Ticaret Bakanlığı"
+    ],
+    "cevap": "Önce satıcıya başvurunuzu ve talebinizi yazılı olarak iletip kanıtları saklayın. Uyuşmazlığın niteliğine ve güncel parasal sınıra göre e-Devlet üzerinden Tüketici Hakem Heyetine başvurabilir veya tüketici mahkemesi yolunu değerlendirebilirsiniz.",
+    "link": "https://tuketicihakemheyeti.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "İşçi Hakları",
+    "sorular": [
+      "İşten çıkarıldım, hangi haklarım var?",
+      "Patron beni işten attı, ne yapmalıyım?"
+    ],
+    "anahtarlar": [
+      "işten çıkarma",
+      "işçilik alacağı",
+      "kıdem tazminatı",
+      "ihbar tazminatı"
+    ],
+    "cevap": "İşten çıkarılma durumunda fesih bildirimi, çalışma süresi, ücret ve işten ayrılma nedeni önemlidir. Koşullara göre kıdem veya ihbar tazminatı, kullanılmayan izin ücreti ve diğer işçilik alacakları gündeme gelebilir. Belgelerinizi saklayın; dava öncesi zorunlu arabuluculuk ve süreler konusunda iş hukuku uzmanından destek alın.",
+    "link": "https://www.csgb.gov.tr/",
+    "kaynak": "Çalışma ve Sosyal Güvenlik Bakanlığı"
+  },
+  {
+    "kategori": "İşçi Hakları",
+    "sorular": [
+      "Maaşım ödenmiyor, nereye şikâyet edebilirim?",
+      "İşveren ücretimi yatırmıyor, ne yapmalıyım?"
+    ],
+    "anahtarlar": [
+      "ödenmeyen maaş",
+      "ücret alacağı",
+      "ALO 170",
+      "işçi şikâyeti"
+    ],
+    "cevap": "Ücretin ödenmemesi hâlinde ödeme kayıtlarını, bordroları ve işverenle yazışmaları saklayın. Çalışma hayatına ilişkin bilgi ve şikâyetler için ALO 170'e başvurabilir; ücret alacağınız için arabuluculuk ve yargı yolları hakkında hukuki destek alabilirsiniz.",
+    "link": "https://www.alo170.gov.tr/",
+    "kaynak": "ALO 170 – Çalışma Hayatı İletişim Merkezi"
+  },
+  {
+    "kategori": "İşçi Hakları",
+    "sorular": [
+      "Fazla mesai ücretim verilmiyor, hakkımı nasıl ararım?",
+      "Fazla çalışıyorum ama ek ücret alamıyorum."
+    ],
+    "anahtarlar": [
+      "fazla mesai",
+      "fazla çalışma ücreti",
+      "işçi hakkı",
+      "puantaj"
+    ],
+    "cevap": "Fazla çalışma iddiasında çalışma saatlerini gösteren puantaj, vardiya çizelgesi, mesaj ve benzeri kayıtlar önemlidir. Ücret alacağı konusunda işverene yazılı başvuru yapabilir, ALO 170'den bilgi alabilir ve gerekli hâllerde arabuluculuk sürecini başlatabilirsiniz.",
+    "link": "https://www.csgb.gov.tr/",
+    "kaynak": "Çalışma ve Sosyal Güvenlik Bakanlığı"
+  },
+  {
+    "kategori": "İşçi Hakları",
+    "sorular": [
+      "İş yerinde sigortam yapılmamış, ne yapmalıyım?",
+      "Sigortasız çalıştırılıyorum, nereye bildirebilirim?"
+    ],
+    "anahtarlar": [
+      "sigortasız çalışma",
+      "SGK",
+      "ALO 170",
+      "işveren bildirimi"
+    ],
+    "cevap": "Sigortasız çalıştırıldığınızı düşünüyorsanız çalıştığınız döneme ilişkin ücret, vardiya, yazışma ve tanık gibi kanıtları saklayın. SGK'ya veya ALO 170'e başvurabilirsiniz. Hizmet tespiti gibi hukuki yolların süre ve koşulları bulunduğundan uzman desteği alın.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "İşçi Hakları",
+    "sorular": [
+      "İş yerinde mobbinge uğruyorum, nereye başvurabilirim?",
+      "Patronum sürekli baskı yapıyor, hakkım nedir?"
+    ],
+    "anahtarlar": [
+      "mobbing",
+      "psikolojik taciz",
+      "iş yerinde baskı",
+      "ALO 170"
+    ],
+    "cevap": "Yaşanan olayları tarihleriyle not edin; mesaj, e-posta ve tanık gibi hukuka uygun şekilde elde edilmiş kanıtları saklayın. İşverenin ilgili birimine, ALO 170'e veya koşullara göre yargı mercilerine başvurabilirsiniz. Somut olayın değerlendirilmesi için hukukî destek alın.",
+    "link": "https://www.alo170.gov.tr/",
+    "kaynak": "ALO 170 – Çalışma Hayatı İletişim Merkezi"
+  },
+  {
+    "kategori": "SGK ve Emeklilik",
+    "sorular": [
+      "SGK hizmet dökümümü nereden görebilirim?",
+      "Sigorta primlerim yatmış mı nasıl kontrol ederim?"
+    ],
+    "anahtarlar": [
+      "SGK hizmet dökümü",
+      "prim sorgulama",
+      "e-Devlet",
+      "4A"
+    ],
+    "cevap": "Sigorta tescil ve hizmet dökümü bilgilerinizi e-Devlet üzerinden SGK hizmetleri bölümünden kontrol edebilirsiniz. Çalışma günlerinde eksiklik görürseniz işveren kayıtlarıyla karşılaştırıp SGK'ya başvurun.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "e-Devlet Kapısı – SGK Hizmetleri"
+  },
+  {
+    "kategori": "SGK ve Emeklilik",
+    "sorular": [
+      "Emeklilik şartlarımı nasıl öğrenebilirim?",
+      "Ne zaman emekli olacağımı nereden hesaplarım?"
+    ],
+    "anahtarlar": [
+      "emeklilik yaşı",
+      "prim günü",
+      "emeklilik şartı",
+      "SGK"
+    ],
+    "cevap": "Emeklilik koşulları ilk sigortalılık tarihi, yaş, prim günü ve sigortalılık statüsüne göre değişir. e-Devlet'teki SGK hizmetlerinden kayıtlarınızı kontrol edin ve SGK'nın resmî açıklamalarını esas alın. İnternetteki genel hesaplamalar kesin emeklilik kararı yerine geçmez.",
+    "link": "https://www.sgk.gov.tr/",
+    "kaynak": "Sosyal Güvenlik Kurumu"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Devletin sosyal yardımlarına nasıl başvurabilirim?",
+      "Maddi yardım almak için nereye gitmeliyim?"
+    ],
+    "anahtarlar": [
+      "sosyal yardım",
+      "SYDV",
+      "e-Devlet",
+      "sosyal destek"
+    ],
+    "cevap": "Sosyal yardım başvuruları yardımın türüne göre e-Devlet üzerinden veya ikamet ettiğiniz yerdeki Sosyal Yardımlaşma ve Dayanışma Vakfına yapılabilir. Gelir ve hane koşulları her yardım programında farklı değerlendirilir. Güncel şartları başvuru ekranından kontrol edin.",
+    "link": "https://www.turkiye.gov.tr/ashb-sosyal-yardim-basvuru-hizmeti",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Gıda yardımı almak istiyorum, nereye başvurulur?",
+      "Erzak yardımı için hangi kuruma gitmeliyim?"
+    ],
+    "anahtarlar": [
+      "gıda yardımı",
+      "erzak",
+      "SYDV",
+      "sosyal yardım"
+    ],
+    "cevap": "Gıda yardımı programları için ikamet ettiğiniz yerdeki Sosyal Yardımlaşma ve Dayanışma Vakfına başvurabilir veya e-Devlet'teki sosyal yardım başvuru hizmetini kontrol edebilirsiniz. Yardımın türü, bütçesi ve uygunluk değerlendirmesi yerel ve güncel koşullara göre değişebilir.",
+    "link": "https://www.turkiye.gov.tr/ashb-sosyal-yardim-basvuru-hizmeti",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sosyal Yardımlar",
+    "sorular": [
+      "Elektrik faturası desteği var mı?",
+      "Elektrik tüketim desteğine nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "elektrik desteği",
+      "fatura yardımı",
+      "sosyal yardım",
+      "SYDV"
+    ],
+    "cevap": "Elektrik tüketim desteği, belirlenen sosyal yardım hak sahipliği koşullarına göre sağlanabilir. Uygunluk ve yararlanma yöntemi için e-Devlet sosyal yardım bilgilerinizi ve ikamet ettiğiniz yerdeki SYDV'yi kontrol edin.",
+    "link": "https://www.turkiye.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı / e-Devlet"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci",
+    "sorular": [
+      "Okulda disiplin cezası aldım, itiraz edebilir miyim?",
+      "Disiplin cezasına nasıl itiraz edilir?"
+    ],
+    "anahtarlar": [
+      "öğrenci disiplin",
+      "itiraz",
+      "okul yönetimi",
+      "disiplin cezası"
+    ],
+    "cevap": "Disiplin işlemine karşı izlenecek yol okul türüne ve ilgili yönetmeliğe göre değişir. Kararın yazılı örneğini ve gerekçesini isteyin; tebliğ tarihini not edin. İtiraz süresi ve makamı için okul idaresinden güncel mevzuata dayalı bilgi alın; gerekiyorsa veli veya hukuki destekle başvurun.",
+    "link": "https://www.mevzuat.gov.tr/",
+    "kaynak": "Millî Eğitim mevzuatı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci",
+    "sorular": [
+      "Okulda zorbalığa uğruyorum, ne yapmalıyım?",
+      "Arkadaşlarım okulda beni tehdit ediyor, kime söylemeliyim?"
+    ],
+    "anahtarlar": [
+      "akran zorbalığı",
+      "tehdit",
+      "okul güvenliği",
+      "rehberlik servisi"
+    ],
+    "cevap": "Güvende değilseniz hemen güvendiğiniz bir öğretmene, okul yönetimine, rehberlik servisine ve velinize haber verin. Tehdit veya şiddet varsa güvenli bir yere geçip acil durumda 112'yi arayın. Olayların tarihini ve varsa kanıtları güvenli biçimde saklayın.",
+    "link": "https://www.meb.gov.tr/",
+    "kaynak": "Millî Eğitim Bakanlığı"
+  },
+  {
+    "kategori": "Eğitim ve Öğrenci",
+    "sorular": [
+      "Burs başvurularını nereden takip edebilirim?",
+      "Öğrenci bursu almak için hangi sitelere bakmalıyım?"
+    ],
+    "anahtarlar": [
+      "öğrenci bursu",
+      "burs başvurusu",
+      "KYK",
+      "Vakıflar Genel Müdürlüğü"
+    ],
+    "cevap": "Burs başvuruları kurumlara göre farklı tarihlerde açılır. Gençlik ve Spor Bakanlığı/KYK, Vakıflar Genel Müdürlüğü, belediyeler ve üniversitelerin resmî duyurularını takip edin. Başvuru için ücret isteyen veya kişisel bilgileri şüpheli biçimde talep eden sitelere dikkat edin.",
+    "link": "https://www.gsb.gov.tr/",
+    "kaynak": "Gençlik ve Spor Bakanlığı"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli sağlık kurulu raporu nasıl alınır?",
+      "Engelli raporu çıkarmak için nereye başvurulur?"
+    ],
+    "anahtarlar": [
+      "engelli raporu",
+      "sağlık kurulu",
+      "hastane",
+      "engellilik"
+    ],
+    "cevap": "Engellilik sağlık kurulu raporu için yetkili hastanelere başvuru yapılır. Başvuru yöntemi, gerekli belgeler ve değerlendirme süreci için Sağlık Bakanlığının güncel düzenlemelerini ve hastanenin hasta kabul birimini kontrol edin. Rapor oranı tıbbi değerlendirmeyle belirlenir.",
+    "link": "https://www.saglik.gov.tr/",
+    "kaynak": "Sağlık Bakanlığı"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli kimlik kartı nasıl çıkarılır?",
+      "Engelli kartı almak için nereye başvurmalıyım?"
+    ],
+    "anahtarlar": [
+      "engelli kimlik kartı",
+      "engelli kartı",
+      "Aile Bakanlığı",
+      "e-Devlet"
+    ],
+    "cevap": "Engelli kimlik kartı başvurusu, gerekli rapor ve kimlik belgeleriyle Aile ve Sosyal Hizmetler İl Müdürlüğüne veya Bakanlığın duyurduğu dijital başvuru kanallarına yapılabilir. Güncel belge ve başvuru koşullarını resmî sayfadan kontrol edin.",
+    "link": "https://www.aile.gov.tr/eyhgm/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı – Engelli ve Yaşlı Hizmetleri"
+  },
+  {
+    "kategori": "Engelli Hakları",
+    "sorular": [
+      "Engelli bireyler için evde bakım yardımı var mı?",
+      "Evde bakım maaşına nasıl başvurulur?"
+    ],
+    "anahtarlar": [
+      "evde bakım yardımı",
+      "bakım desteği",
+      "engelli",
+      "Aile Bakanlığı"
+    ],
+    "cevap": "Evde bakım yardımı için engellilik ve bakım ihtiyacı yanında mevzuatta belirtilen gelir ve diğer koşullar değerlendirilir. Başvuru ikamet edilen yerdeki Aile ve Sosyal Hizmetler İl Müdürlüğüne veya ilgili sosyal hizmet merkezine yapılır. Uygunluk otomatik değildir.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi yakını olarak hangi haklardan yararlanabilirim?",
+      "Gazi çocuğuyum, haklarımı nereden öğrenebilirim?"
+    ],
+    "anahtarlar": [
+      "gazi yakını",
+      "gazi çocuğu",
+      "şehit yakını",
+      "haklar"
+    ],
+    "cevap": "Şehit yakınları ve gazilere yönelik haklar; kişinin statüsüne, yakınlık derecesine ve ilgili mevzuata göre değişir. Güncel bilgi için Aile ve Sosyal Hizmetler Bakanlığının ilgili birimleri, ilgili kamu kurumu ve e-Devlet hizmetleri üzerinden başvuru koşullarını doğrulayın. Her hak her statüye otomatik olarak uygulanmaz.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi yakını ücretsiz ulaşım hakkından nasıl yararlanır?",
+      "Ücretsiz seyahat kartı için nereye başvurulur?"
+    ],
+    "anahtarlar": [
+      "ücretsiz seyahat",
+      "gazi yakını kartı",
+      "ücretsiz ulaşım",
+      "seyahat kartı"
+    ],
+    "cevap": "Ücretsiz seyahat hakkı ve kartın kapsamı, kişinin kanundaki statüsüne ve ilgili düzenlemelere göre belirlenir. Başvuru ve belge şartlarını Aile ve Sosyal Hizmetler İl Müdürlüğünden veya resmî e-Devlet hizmetlerinden doğrulayın. Kartın hangi ulaşım türlerinde geçerli olduğunu ayrıca kontrol edin.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Şehit Yakını ve Gazi Hakları",
+    "sorular": [
+      "Gazi yakını istihdam hakkı başvurusu nasıl yapılır?",
+      "Şehit yakını veya gazi yakını kamu işe alım hakkını nasıl kullanır?"
+    ],
+    "anahtarlar": [
+      "istihdam hakkı",
+      "gazi yakını",
+      "şehit yakını",
+      "kamu işe alım"
+    ],
+    "cevap": "Şehit yakını ve gazi yakınlarına tanınan istihdam hakkının kapsamı, hak sahibi statüsü ve başvuru koşulları mevzuatta düzenlenir. Başvuru ve hak sahipliği işlemleri için Aile ve Sosyal Hizmetler Bakanlığının ilgili birimine başvurun; şartları kişisel durumunuza göre teyit edin.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "Hastanede hasta haklarım ihlal edildi, nereye şikâyet ederim?",
+      "Doktor veya hastane hakkında şikâyet nasıl yapılır?"
+    ],
+    "anahtarlar": [
+      "hasta hakları",
+      "hastane şikâyeti",
+      "SABİM",
+      "184"
+    ],
+    "cevap": "Öncelikle hastanedeki Hasta Hakları Birimine başvurabilirsiniz. Sağlık hizmetleriyle ilgili bildirim ve şikâyetler için SABİM 184 ve Sağlık Bakanlığının resmî kanalları da kullanılabilir. Acil sağlık sorunlarında şikâyet sürecini beklemeyin; sağlık hizmetine başvurun.",
+    "link": "https://sabim.saglik.gov.tr/",
+    "kaynak": "Sağlık Bakanlığı – SABİM"
+  },
+  {
+    "kategori": "Sağlık ve Hasta Hakları",
+    "sorular": [
+      "Sağlık raporuma nasıl ulaşabilirim?",
+      "Tahlil sonuçlarımı internetten nereden görebilirim?"
+    ],
+    "anahtarlar": [
+      "e-Nabız",
+      "tahlil sonucu",
+      "sağlık raporu",
+      "hasta kayıtları"
+    ],
+    "cevap": "Sağlık kayıtları, tahlil sonuçları ve birçok rapor e-Nabız üzerinden görüntülenebilir. e-Nabız'a e-Devlet veya diğer resmî giriş yöntemleriyle erişin. Kayıtta hata olduğunu düşünüyorsanız işlemi yapan sağlık kuruluşuna başvurun.",
+    "link": "https://enabiz.gov.tr/",
+    "kaynak": "Sağlık Bakanlığı – e-Nabız"
+  },
+  {
+    "kategori": "Aile ve Çocuk",
+    "sorular": [
+      "Çocuk hakları ihlal ediliyorsa nereye başvurulur?",
+      "Bir çocuğun ihmal edildiğini düşünüyorsam ne yapmalıyım?"
+    ],
+    "anahtarlar": [
+      "çocuk hakları",
+      "ihmal",
+      "istismar",
+      "ALO 183"
+    ],
+    "cevap": "Bir çocuğun güvenliği tehlikedeyse 112'yi arayın veya kolluk birimlerine başvurun. Sosyal destek ve yönlendirme için ALO 183'ten yardım alınabilir. Çocuğun kimliğini ve özel bilgilerini sosyal medyada paylaşmayın; bildirimi yetkili kurumlara yapın.",
+    "link": "https://www.aile.gov.tr/alo-183/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı – ALO 183"
+  },
+  {
+    "kategori": "Aile ve Çocuk",
+    "sorular": [
+      "Aile içi şiddet görüyorum, nereye başvurabilirim?",
+      "Evde şiddet varsa hangi numarayı aramalıyım?"
+    ],
+    "anahtarlar": [
+      "aile içi şiddet",
+      "şiddet",
+      "112",
+      "KADES",
+      "ALO 183"
+    ],
+    "cevap": "Acil tehlike varsa güvenli bir yere geçip 112'yi arayın. Kolluk birimleri, ŞÖNİM ve ALO 183 üzerinden destek ve yönlendirme alınabilir. Kadınlar KADES uygulamasını da kullanabilir. Güvenliğiniz önceliklidir; şiddet uygulayan kişiyle tek başınıza yüzleşmek zorunda değilsiniz.",
+    "link": "https://www.aile.gov.tr/",
+    "kaynak": "Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "kategori": "Aile ve Çocuk",
+    "sorular": [
+      "Boşanma sürecinde çocuk velayeti nasıl belirlenir?",
+      "Çocuğun velayeti hangi ebeveyne verilir?"
+    ],
+    "anahtarlar": [
+      "boşanma",
+      "velayet",
+      "çocuğun üstün yararı",
+      "aile mahkemesi"
+    ],
+    "cevap": "Velayet konusunda karar, somut olayın koşulları ve çocuğun üstün yararı dikkate alınarak mahkemece verilir. Ebeveynlerin talepleri, çocuğun ihtiyaçları ve uzman değerlendirmeleri önem taşıyabilir. Kişisel durumunuz için aile hukuku alanında avukata veya baronun adli yardım birimine danışın.",
+    "link": "https://www.barobirlik.org.tr/",
+    "kaynak": "Türkiye Barolar Birliği"
+  },
+  {
+    "kategori": "Kişisel Veriler ve Gizlilik",
+    "sorular": [
+      "Kişisel bilgilerim izinsiz paylaşıldı, ne yapabilirim?",
+      "Fotoğrafım veya telefon numaram izinsiz yayımlandı, nereye başvurayım?"
+    ],
+    "anahtarlar": [
+      "kişisel veri",
+      "izinsiz paylaşım",
+      "KVKK",
+      "veri ihlali"
+    ],
+    "cevap": "Önce paylaşımın ekran görüntüsü ve bağlantısı gibi delilleri güvenli biçimde saklayın. Veri sorumlusuna başvuru ve şartları varsa Kişisel Verileri Koruma Kuruluna şikâyet yolu gündeme gelebilir. Tehdit, şantaj veya özel hayatın gizliliğine yönelik suç şüphesi varsa kolluk veya savcılığa başvurun.",
+    "link": "https://www.kvkk.gov.tr/",
+    "kaynak": "Kişisel Verileri Koruma Kurumu"
+  },
+  {
+    "kategori": "Kişisel Veriler ve Gizlilik",
+    "sorular": [
+      "Bir şirket verilerimi silmiyor, ne yapabilirim?",
+      "Kişisel verilerimin silinmesini nasıl isterim?"
+    ],
+    "anahtarlar": [
+      "veri silme",
+      "kişisel veri",
+      "KVKK başvurusu",
+      "veri sorumlusu"
+    ],
+    "cevap": "Kişisel verilerinizle ilgili silme, yok etme veya anonim hâle getirme talebinizi öncelikle veri sorumlusuna iletin. Başvurunun şekli ve süreleri KVKK kapsamında düzenlenmiştir. Yanıtı yetersiz bulursanız Kurula şikâyet şartlarını ve sürelerini KVKK'nın resmî sitesinden kontrol edin.",
+    "link": "https://www.kvkk.gov.tr/",
+    "kaynak": "Kişisel Verileri Koruma Kurumu"
+  },
+  {
+    "kategori": "Bilgi Edinme",
+    "sorular": [
+      "Kamu kurumundan bilgi isteme hakkım var mı?",
+      "Bir devlet kurumundan belge veya bilgi nasıl istenir?"
+    ],
+    "anahtarlar": [
+      "bilgi edinme",
+      "4982",
+      "kamu bilgisi",
+      "başvuru"
+    ],
+    "cevap": "Kamu kurumlarından bilgi edinme başvurusu, 4982 sayılı Kanun çerçevesinde yapılabilir. Başvuruda istenen bilgi veya belgeyi açıkça tanımlayın. Kanunda istisnalar ve cevap süreleri bulunur; başvuru yöntemini ilgili kurumun resmî sitesinden kontrol edin.",
+    "link": "https://www.mevzuat.gov.tr/",
+    "kaynak": "4982 sayılı Bilgi Edinme Hakkı Kanunu"
+  },
+  {
+    "kategori": "Vergi",
+    "sorular": [
+      "Vergi borcumu nereden öğrenebilirim?",
+      "Üzerime vergi borcu var mı nasıl sorgularım?"
+    ],
+    "anahtarlar": [
+      "vergi borcu",
+      "borç sorgulama",
+      "GİB",
+      "e-Devlet"
+    ],
+    "cevap": "Vergi borcu ve ödeme bilgilerinizi Gelir İdaresi Başkanlığının Dijital Vergi Dairesi veya e-Devlet'teki ilgili hizmetlerden kontrol edebilirsiniz. Ödeme yaparken yalnızca resmî kanalları kullanın; size gelen şüpheli bağlantılara tıklamayın.",
+    "link": "https://dijital.gib.gov.tr/",
+    "kaynak": "Gelir İdaresi Başkanlığı"
+  },
+  {
+    "kategori": "Vergi",
+    "sorular": [
+      "Vergi cezasına itiraz edebilir miyim?",
+      "Vergi borcu veya ceza ihbarnamesine nasıl itiraz edilir?"
+    ],
+    "anahtarlar": [
+      "vergi cezası",
+      "itiraz",
+      "ihbarname",
+      "vergi uyuşmazlığı"
+    ],
+    "cevap": "Vergi cezası veya ihbarnameye karşı başvuru yolları, belgenin türüne ve tebliğ tarihine göre değişir. Belge üzerindeki açıklamaları dikkatle okuyup süreleri kaçırmayın. Vergi dairesinden bilgi alın ve gerektiğinde mali müşavir veya vergi hukuku uzmanına danışın.",
+    "link": "https://www.gib.gov.tr/",
+    "kaynak": "Gelir İdaresi Başkanlığı"
+  },
+  {
+    "kategori": "Kira ve Konut",
+    "sorular": [
+      "Ev sahibim kirayı çok artırmak istiyor, ne yapabilirim?",
+      "Kira artış oranını kim belirliyor?"
+    ],
+    "anahtarlar": [
+      "kira artışı",
+      "kira zammı",
+      "ev sahibi",
+      "kira sözleşmesi"
+    ],
+    "cevap": "Kira artışında uygulanacak sınırlar konut veya işyeri olmasına, sözleşme dönemine ve yürürlükteki mevzuata göre değişebilir. Sözleşmenizi ve artış bildiriminizi saklayın; güncel oran ve kuralları resmî mevzuattan kontrol edin. Uyuşmazlıklarda arabuluculuk ve hukuki destek gerekebilir.",
+    "link": "https://www.mevzuat.gov.tr/",
+    "kaynak": "Türk Borçlar Kanunu ve ilgili mevzuat"
+  },
+  {
+    "kategori": "Kira ve Konut",
+    "sorular": [
+      "Ev sahibim beni hemen evden çıkarabilir mi?",
+      "Kiracıyım, ev sahibi tahliye etmemi istiyor ne yapmalıyım?"
+    ],
+    "anahtarlar": [
+      "kiracı",
+      "tahliye",
+      "ev sahibi",
+      "kira sözleşmesi"
+    ],
+    "cevap": "Kiracının tahliyesi kanunda düzenlenen sebeplere ve usule bağlıdır; ev sahibinin yalnızca sözlü isteği her durumda tahliye anlamına gelmez. İhtarname ve mahkeme belgelerini dikkate alın, tebliğ tarihlerini saklayın. Somut durum için kira hukuku uzmanından veya baronun adli yardım biriminden destek alın.",
+    "link": "https://www.barobirlik.org.tr/",
+    "kaynak": "Türkiye Barolar Birliği"
+  },
+  {
+    "kategori": "Kira ve Konut",
+    "sorular": [
+      "Depozitomu geri alamıyorum, ne yapabilirim?",
+      "Evden çıktım, ev sahibi depozitoyu vermiyor."
+    ],
+    "anahtarlar": [
+      "depozito",
+      "güvence bedeli",
+      "kiracı",
+      "iade"
+    ],
+    "cevap": "Kira sözleşmesini, depozito ödeme dekontunu, teslim tutanağını ve yazışmaları saklayın. Depozitonun iadesi, sözleşme ve taşınmazın teslim durumuna göre değerlendirilir. Önce yazılı talepte bulunun; anlaşmazlıkta arabuluculuk ve hukuki başvuru seçeneklerini değerlendirin.",
+    "link": "https://www.mevzuat.gov.tr/",
+    "kaynak": "Türk Borçlar Kanunu"
+  },
+  {
+    "kategori": "İnternet ve Dolandırıcılık",
+    "sorular": [
+      "İnternetten dolandırıldım, paramı nasıl geri alırım?",
+      "Havale yaptım dolandırıldım, ne yapmalıyım?"
+    ],
+    "anahtarlar": [
+      "internet dolandırıcılığı",
+      "banka havalesi",
+      "dolandırıcılık",
+      "savcılık"
+    ],
+    "cevap": "Vakit kaybetmeden bankanızla resmî müşteri hizmetleri veya şubesi üzerinden iletişime geçip işlemi bildirin. Dekont, mesaj, telefon numarası ve hesap bilgilerini saklayın. Kolluk birimine veya Cumhuriyet başsavcılığına başvurarak suç duyurusunda bulunabilirsiniz. Paranın geri alınacağı garanti edilemez.",
+    "link": "https://www.egm.gov.tr/",
+    "kaynak": "Emniyet Genel Müdürlüğü"
+  },
+  {
+    "kategori": "İnternet ve Dolandırıcılık",
+    "sorular": [
+      "Sosyal medyada tehdit ediliyorum, ne yapmalıyım?",
+      "Instagram'dan tehdit mesajı aldım, nereye şikâyet edilir?"
+    ],
+    "anahtarlar": [
+      "sosyal medya tehdidi",
+      "tehdit mesajı",
+      "siber suç",
+      "emniyet"
+    ],
+    "cevap": "Mesajları silmeden ekran görüntüsü, kullanıcı adı, tarih ve bağlantı bilgilerini saklayın. Tehdit veya şantaj varsa kolluk birimine ya da savcılığa başvurabilirsiniz. Acil tehlikede 112'yi arayın. Şüpheli kişiye para göndermeyin ve kişisel bilgilerinizi paylaşmayın.",
+    "link": "https://www.egm.gov.tr/",
+    "kaynak": "Emniyet Genel Müdürlüğü"
+  },
+  {
+    "kategori": "İnternet ve Dolandırıcılık",
+    "sorular": [
+      "Sahte internet sitesi nasıl şikâyet edilir?",
+      "İnternette sahte satış yapan bir siteyi nereye bildirebilirim?"
+    ],
+    "anahtarlar": [
+      "sahte site",
+      "internet alışverişi",
+      "dolandırıcılık",
+      "tüketici şikâyeti"
+    ],
+    "cevap": "Site adresi, ilan, yazışma, ödeme dekontu ve sipariş bilgilerini saklayın. Satış ve tüketici uyuşmazlığı için Ticaret Bakanlığının tüketici başvuru kanallarını; dolandırıcılık şüphesinde kolluk veya savcılığı kullanın. Banka üzerinden ödeme yaptıysanız bankanıza da hemen bildirin.",
+    "link": "https://www.ticaret.gov.tr/",
+    "kaynak": "Ticaret Bakanlığı"
+  },
+  {
+    "kategori": "Ulaşım ve Kamu Hizmetleri",
+    "sorular": [
+      "Belediye hizmetinden memnun değilim, nereye şikâyet ederim?",
+      "Belediyenin yapmadığı hizmet için nasıl başvururum?"
+    ],
+    "anahtarlar": [
+      "belediye şikâyeti",
+      "belediye hizmeti",
+      "beyaz masa",
+      "CİMER"
+    ],
+    "cevap": "Öncelikle ilgili belediyenin çağrı merkezi, çözüm masası veya resmî başvuru sistemi üzerinden kayıt oluşturun. Başvuru numarasını saklayın. Sonuç alamazsanız konunun niteliğine göre CİMER'e başvurabilirsiniz.",
+    "link": "https://www.cimer.gov.tr/",
+    "kaynak": "CİMER ve ilgili belediye"
+  },
+  {
+    "kategori": "Ulaşım ve Kamu Hizmetleri",
+    "sorular": [
+      "Toplu taşımada engelli erişimi yok, nereye bildirebilirim?",
+      "Otobüs veya durak erişilebilir değil, şikâyet nasıl yapılır?"
+    ],
+    "anahtarlar": [
+      "erişilebilir ulaşım",
+      "engelli erişimi",
+      "belediye",
+      "toplu taşıma"
+    ],
+    "cevap": "Araç, durak veya güzergâhı işleten belediye ya da ulaşım kuruluşuna tarih, saat, hat ve konum bilgisiyle bildirim yapın. Başvurunuzun kayıt numarasını saklayın. Çözüm alamazsanız ilgili üst kuruma veya CİMER'e başvurabilirsiniz.",
+    "link": "https://www.cimer.gov.tr/",
+    "kaynak": "CİMER ve ilgili yerel yönetim"
+  },
+  {
+    "kategori": "Afet ve Acil Durum",
+    "sorular": [
+      "Depremden sonra hasarlı bina için nereye başvurulur?",
+      "Binam depremde hasar gördü, ne yapmalıyım?"
+    ],
+    "anahtarlar": [
+      "deprem",
+      "hasarlı bina",
+      "AFAD",
+      "Çevre Şehircilik"
+    ],
+    "cevap": "Binada çatlak, eğilme veya ciddi hasar şüphesi varsa binaya girmeyin ve güvenli alana geçin. Acil tehlikede 112'yi arayın. Hasar tespiti ve destek süreçleri için valilik, belediye ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığının resmî duyurularını takip edin.",
+    "link": "https://www.afad.gov.tr/",
+    "kaynak": "AFAD"
+  },
+  {
+    "kategori": "Afet ve Acil Durum",
+    "sorular": [
+      "Afet yardımı başvurusu nereden yapılır?",
+      "Sel veya deprem sonrası yardım almak için nereye başvurmalıyım?"
+    ],
+    "anahtarlar": [
+      "afet yardımı",
+      "deprem desteği",
+      "sel yardımı",
+      "AFAD",
+      "SYDV"
+    ],
+    "cevap": "Afet sonrası yardımların türü ve başvuru kanalı olayın niteliğine göre duyurulur. AFAD, valilik, belediye ve Sosyal Yardımlaşma ve Dayanışma Vakfının resmî açıklamalarını takip edin. Kimlik ve iletişim bilgilerinizi yalnızca resmî başvuru kanallarına verin.",
+    "link": "https://www.afad.gov.tr/",
+    "kaynak": "Afet ve Acil Durum Yönetimi Başkanlığı"
+  },
+  {
+    "kategori": "Göç ve Yabancılar",
+    "sorular": [
+      "İkamet izni başvurusu nasıl yapılır?",
+      "Türkiye'de oturma izni almak için nereye başvurulur?"
+    ],
+    "anahtarlar": [
+      "ikamet izni",
+      "oturma izni",
+      "Göç İdaresi",
+      "yabancı"
+    ],
+    "cevap": "İkamet izni işlemleri Göç İdaresi Başkanlığının resmî sistemi üzerinden yürütülür. İzin türü, başvuru belgeleri ve randevu koşulları kişinin durumuna göre değişir. Aracı olduğunu söyleyerek ücret isteyen kişilere karşı dikkatli olun; güncel bilgiyi resmî siteden alın.",
+    "link": "https://www.goc.gov.tr/",
+    "kaynak": "Göç İdaresi Başkanlığı"
+  }
+]

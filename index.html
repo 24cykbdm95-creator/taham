@@ -1,0 +1,164 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="TAHAM, vatandaşların hakları ve resmî başvuru yolları hakkında bilgi edinmesini kolaylaştıran dijital platform prototipidir.">
+    <title>TAHAM | Türkiye Adalet ve Hak Arama Merkezi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">
+        <span>TAHAM</span>
+        <small>Türkiye Adalet ve Hak Arama Merkezi</small>
+    </div>
+
+    <nav>
+        <a href="#anasayfa">Ana Sayfa</a>
+        <a href="#hakkimizda">TAHAM Nedir?</a>
+        <a href="#asistan">Soru Havuzu</a>
+        <a href="#rehber">Hak Arama Rehberi</a>
+    </nav>
+</header>
+
+<section class="hero" id="anasayfa">
+    <div class="hero-content">
+        <p class="eyebrow">DİJİTAL HAK ARAMA PLATFORMU</p>
+
+        <h1>Haklarınızı öğrenin,<br>doğru adımı birlikte bulalım.</h1>
+
+        <p>
+            Haklarınız hakkında bilgi edinin, başvuru yollarını keşfedin
+            ve ilgili resmî kurumlara kolayca ulaşın.
+        </p>
+
+        <a href="#asistan" class="main-button">Sorunuzu Bize İletin →</a>
+    </div>
+</section>
+
+<section class="about section" id="hakkimizda">
+    <p class="eyebrow">HAKKIMIZDA</p>
+    <h2>TAHAM Nedir?</h2>
+
+    <p>
+        TAHAM, vatandaşların hak arama süreçlerinde ihtiyaç duydukları
+        bilgilere daha kolay ulaşabilmeleri amacıyla geliştirilen
+        dijital bir platform prototipidir. Kullanıcıların sorularını
+        yerel bilgi havuzundaki kayıtlarla eşleştirir ve onları
+        ilgili resmî kurumların hizmetlerine yönlendirir.
+    </p>
+</section>
+
+<section class="assistant section" id="asistan">
+    <p class="eyebrow">DİJİTAL BİLGİ DESTEĞİ</p>
+    <h2>TAHAM Soru ve Bilgi Sistemi</h2>
+
+    <p>
+        Haklarınızla ilgili merak ettiğiniz konuyu yazın.
+        Bilgi havuzumuzda sizin için uygun yanıtı arayalım.
+    </p>
+
+    <div class="chat-box">
+        <div id="chat">
+            <div class="bot-message">
+                Merhaba! TAHAM'a hoş geldiniz.
+                Haklarınız ve resmî başvuru yolları hakkında
+                sorunuzu yazabilirsiniz.
+            </div>
+        </div>
+
+        <textarea id="userInput"
+            placeholder="Örneğin: Babam gazi, hangi haklardan yararlanabilirim?"></textarea>
+
+        <button onclick="sendMessage()">Soruyu Gönder</button>
+    </div>
+
+    <div class="examples">
+        <p>Örnek sorular:</p>
+        <button onclick="askExample('Babam gazi, hangi haklardan yararlanabilirim?')">Gazi Yakını Hakları</button>
+        <button onclick="askExample('İşten çıkarıldım, ne yapmalıyım?')">İşçi Hakları</button>
+        <button onclick="askExample('Aldığım ürün bozuk çıktı, ne yapmalıyım?')">Tüketici Hakları</button>
+    </div>
+</section>
+
+<section class="guide section" id="rehber">
+    <p class="eyebrow">BİLGİ VE YÖNLENDİRME</p>
+    <h2>Hak Arama Rehberi</h2>
+
+    <p class="section-intro">
+        Farklı alanlardaki haklarınızı öğrenin ve ilgili resmî kurumlara ulaşın.
+    </p>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>Adalet ve Hukuki Destek</h3>
+            <p>Adli yardım, ücretsiz avukat desteği ve hukuki başvuru yolları hakkında bilgi edinin.</p>
+            <a href="https://www.barobirlik.org.tr/" target="_blank" rel="noopener">Barolar Birliğine Git →</a>
+        </div>
+
+        <div class="card">
+            <h3>Şehit Yakınları ve Gaziler</h3>
+            <p>Şehit yakınları ve gazilere yönelik haklar, destekler ve başvuru yollarını inceleyin.</p>
+            <a href="https://www.aile.gov.tr/" target="_blank" rel="noopener">Aile Bakanlığına Git →</a>
+        </div>
+
+        <div class="card">
+            <h3>Sosyal Yardımlar</h3>
+            <p>Gıda, barınma, fatura ve diğer sosyal destek başvuruları hakkında bilgi alın.</p>
+            <a href="https://www.turkiye.gov.tr/ashb-sosyal-yardim-basvuru-hizmeti" target="_blank" rel="noopener">Sosyal Yardımlara Git →</a>
+        </div>
+
+        <div class="card">
+            <h3>Eğitim ve Öğrenci Hakları</h3>
+            <p>Burs, öğrenci hakları ve eğitim süreçlerine ilişkin resmî bilgilere ulaşın.</p>
+            <a href="https://www.meb.gov.tr/" target="_blank" rel="noopener">MEB'e Git →</a>
+        </div>
+
+        <div class="card">
+            <h3>Sağlık ve Hasta Hakları</h3>
+            <p>Hasta hakları, sağlık hizmetleri ve şikâyet başvuru yollarını öğrenin.</p>
+            <a href="https://sabim.saglik.gov.tr/" target="_blank" rel="noopener">SABİM'e Git →</a>
+        </div>
+
+        <div class="card">
+            <h3>Tüketici Hakları</h3>
+            <p>Ayıplı ürün, iade, değişim ve tüketici uyuşmazlıkları hakkında bilgi edinin.</p>
+            <a href="https://tuketicihakemheyeti.ticaret.gov.tr/" target="_blank" rel="noopener">Tüketici Hakem Heyetine Git →</a>
+        </div>
+
+        <div class="card">
+            <h3>CİMER ve Kamu Başvuruları</h3>
+            <p>Kamu kurumlarına istek, şikâyet ve önerilerinizi iletme yollarını keşfedin.</p>
+            <a href="https://www.cimer.gov.tr/" target="_blank" rel="noopener">CİMER'e Git →</a>
+        </div>
+
+        <div class="card">
+            <h3>e-Devlet Hizmetleri</h3>
+            <p>Resmî hizmetlere ulaşın, belgelerinizi alın ve başvurularınızı takip edin.</p>
+            <a href="https://www.turkiye.gov.tr/" target="_blank" rel="noopener">e-Devlet'e Git →</a>
+        </div>
+
+    </div>
+</section>
+
+<footer>
+    <h2>TAHAM</h2>
+    <p>Adalet arayışında hiçbir vatandaş yalnız değildir.</p>
+
+    <small>
+        TAHAM bir proje prototipidir; resmî bir kamu kurumu değildir
+        ve hukuki danışmanlık sunmaz. Sunulan bilgiler genel bilgilendirme
+        ve resmî kurumlara yönlendirme amacı taşır. İşlem yapmadan önce
+        ilgili kurumun güncel açıklamalarını kontrol ediniz.
+    </small>
+
+    <p>© 2026 TAHAM Projesi</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

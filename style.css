@@ -1,0 +1,387 @@
+
+/* TAHAM - KURUMSAL TASARIM */
+
+:root {
+    --lacivert: #101d35;
+    --lacivert-acik: #263e60;
+    --altin: #d8b66a;
+    --metin: #263449;
+    --gri: #687386;
+    --zemin: #f4f6fa;
+    --beyaz: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 90px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: var(--zemin);
+    color: var(--metin);
+    line-height: 1.6;
+}
+
+/* ÜST MENÜ */
+
+header {
+    background: rgba(16, 29, 53, 0.98);
+    color: white;
+    padding: 20px 8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 18px #00000020;
+}
+
+.logo span {
+    display: block;
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: 4px;
+    color: var(--altin);
+}
+
+.logo small {
+    font-size: 11px;
+    color: #dce2ec;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 26px;
+    flex-wrap: wrap;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    transition: .2s;
+}
+
+nav a:hover {
+    color: var(--altin);
+}
+
+/* ANA EKRAN */
+
+.hero {
+    min-height: 570px;
+    padding: 110px 10%;
+    display: flex;
+    align-items: center;
+    background:
+        radial-gradient(circle at 85% 20%, #385477 0%, transparent 35%),
+        linear-gradient(120deg, #101d35, #263e60);
+    color: white;
+}
+
+.hero-content {
+    max-width: 780px;
+}
+
+.eyebrow {
+    color: var(--altin);
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 13px;
+    margin-bottom: 22px;
+}
+
+.hero h1 {
+    font-size: clamp(36px, 5vw, 58px);
+    line-height: 1.15;
+    margin-bottom: 26px;
+    font-weight: 800;
+}
+
+.hero p {
+    max-width: 750px;
+    line-height: 1.9;
+    color: #e0e6ef;
+    font-size: 17px;
+    margin-bottom: 35px;
+}
+
+.main-button {
+    display: inline-block;
+    background: var(--altin);
+    color: var(--lacivert);
+    padding: 16px 30px;
+    border-radius: 7px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: .2s;
+}
+
+.main-button:hover {
+    background: #efd28b;
+    transform: translateY(-2px);
+}
+
+/* GENEL BÖLÜMLER */
+
+.section {
+    padding: 85px 10%;
+    text-align: center;
+}
+
+.section h2 {
+    font-size: 34px;
+    margin-bottom: 18px;
+    color: var(--lacivert);
+}
+
+.section-intro {
+    max-width: 720px;
+    margin: 0 auto;
+    color: var(--gri);
+    line-height: 1.8;
+}
+
+.about p:last-child {
+    max-width: 850px;
+    margin: auto;
+    line-height: 1.9;
+    color: var(--gri);
+}
+
+/* HİZMET KARTLARI */
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin-top: 45px;
+}
+
+.card {
+    background: var(--beyaz);
+    padding: 32px;
+    border: 1px solid #e7ebf1;
+    border-radius: 13px;
+    text-align: left;
+    box-shadow: 0 8px 25px #172b450c;
+    transition: .25s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px #172b4518;
+}
+
+.card h3 {
+    color: var(--lacivert);
+    font-size: 20px;
+    margin-bottom: 14px;
+}
+
+.card p {
+    color: var(--gri);
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+.card a {
+    color: #987328;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+/* SORU-CEVAP ALANI */
+
+.assistant {
+    background: #e9edf3;
+}
+
+.chat-box {
+    max-width: 780px;
+    margin: 35px auto 20px;
+    padding: 28px;
+    background: white;
+    border: 1px solid #e3e8ef;
+    border-radius: 14px;
+    box-shadow: 0 8px 30px #0000000c;
+}
+
+#chat {
+    min-height: 120px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.bot-message {
+    background: #edf1f7;
+    padding: 16px;
+    border-radius: 9px;
+    line-height: 1.8;
+    margin-bottom: 12px;
+}
+
+.user-message {
+    background: var(--lacivert);
+    color: white;
+    padding: 15px;
+    border-radius: 9px;
+    margin-bottom: 12px;
+    text-align: right;
+}
+
+textarea {
+    width: 100%;
+    min-height: 110px;
+    padding: 16px;
+    border: 1px solid #ccd3df;
+    border-radius: 9px;
+    resize: vertical;
+    font-size: 15px;
+    font-family: inherit;
+}
+
+textarea:focus {
+    outline: 2px solid #d8b66a80;
+    border-color: #b08b42;
+}
+
+.chat-box button {
+    width: 100%;
+    padding: 15px;
+    margin-top: 12px;
+    border: none;
+    background: var(--lacivert);
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    transition: .2s;
+}
+
+.chat-box button:hover {
+    background: var(--lacivert-acik);
+}
+
+.examples button {
+    margin: 8px 5px;
+    padding: 10px 16px;
+    border: 1px solid #142440;
+    border-radius: 25px;
+    background: transparent;
+    color: #142440;
+    cursor: pointer;
+}
+
+.examples button:hover {
+    background: var(--lacivert);
+    color: white;
+}
+
+/* ALT BİLGİ */
+
+footer {
+    background: var(--lacivert);
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+footer h2 {
+    color: var(--altin);
+    letter-spacing: 4px;
+    margin-bottom: 12px;
+}
+
+footer p {
+    margin-bottom: 15px;
+}
+
+footer small {
+    display: block;
+    color: #c4ccda;
+    line-height: 1.8;
+    max-width: 700px;
+    margin: 20px auto;
+}
+
+/* TELEFON VE TABLET */
+
+@media (max-width: 900px) {
+    header {
+        padding: 18px 5%;
+    }
+
+    nav {
+        gap: 15px;
+    }
+
+    .cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .hero {
+        padding: 85px 7%;
+    }
+}
+
+@media (max-width: 600px) {
+    header {
+        justify-content: center;
+        text-align: center;
+    }
+
+    nav {
+        justify-content: center;
+        gap: 12px;
+    }
+
+    nav a {
+        font-size: 12px;
+    }
+
+    .hero {
+        min-height: 480px;
+        padding: 75px 7%;
+    }
+
+    .hero h1 {
+        font-size: 35px;
+    }
+
+    .hero p {
+        font-size: 15px;
+    }
+
+    .cards {
+        grid-template-columns: 1fr;
+    }
+
+    .section {
+        padding: 60px 7%;
+    }
+
+    .section h2 {
+        font-size: 27px;
+    }
+
+    .chat-box {
+        padding: 18px;
+    }
+}

@@ -1,0 +1,404 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TAHAM Yönetim Paneli</title>
+
+<style>
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    padding: 25px;
+    background: #f3f5f8;
+    color: #263445;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+}
+
+h1 { color: #263445; }
+
+.card {
+    background: white;
+    padding: 22px;
+    margin: 18px 0;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px #0000000c;
+}
+
+input, textarea, select, button {
+    width: 100%;
+    padding: 12px;
+    margin: 7px 0;
+    border: 1px solid #ccd3df;
+    border-radius: 7px;
+    font-size: 15px;
+}
+
+textarea { min-height: 90px; }
+
+button {
+    background: #263e59;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover { opacity: .88; }
+
+button.sil { background: #b53d3d; }
+button.duzenle { background: #b18a37; }
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 15px;
+}
+
+.stat {
+    background: #f7f8fa;
+    padding: 18px;
+    border-radius: 9px;
+}
+
+.stat strong {
+    display: block;
+    font-size: 27px;
+    margin-top: 8px;
+}
+
+.kayit {
+    border: 1px solid #e0e4eb;
+    border-radius: 9px;
+    padding: 15px;
+    margin: 12px 0;
+}
+
+.kayit h3 { margin-top: 0; }
+
+.kategori {
+    color: #987328;
+    font-weight: bold;
+}
+
+#panel { display: none; }
+
+#mesaj { font-weight: bold; }
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<h1>TAHAM Yönetim Paneli</h1>
+<p>Soru havuzu yönetim sistemi</p>
+
+<div class="card" id="giris">
+    <h2>Yönetici Girişi</h2>
+    <input type="password" id="sifre" placeholder="Yönetici şifresi">
+    <button onclick="girisYap()">Giriş Yap</button>
+    <p id="girisMesaj"></p>
+</div>
+
+<div id="panel">
+
+<div class="card">
+    <h2>Genel İstatistikler</h2>
+    <div class="grid">
+        <div class="stat">
+            Toplam Kayıt
+            <strong id="toplamKayit">0</strong>
+        </div>
+        <div class="stat">
+            Toplam Kategori
+            <strong id="toplamKategori">0</strong>
+        </div>
+    </div>
+    <h3>Kategori Dağılımı</h3>
+    <div id="kategoriIstatistikleri">Yükleniyor...</div>
+</div>
+
+<div class="card">
+    <h2>Yeni Soru Ekle</h2>
+
+    <input id="kategori" placeholder="Kategori">
+    <textarea id="sorular" placeholder="Örnek sorular (her satıra bir soru)"></textarea>
+    <textarea id="anahtarlar" placeholder="Anahtar kelimeler (virgülle ayır)"></textarea>
+    <textarea id="cevap" placeholder="Cevap"></textarea>
+    <input id="link" placeholder="Resmî bağlantı (URL)">
+    <input id="kaynak" placeholder="Kaynak">
+
+    <button onclick="soruEkle()">Soruyu Kaydet</button>
+    <p id="eklemeMesaji"></p>
+</div>
+
+<div class="card">
+    <h2>Toplu Soru Yükleme</h2>
+    <p>JSON dosyanı seçerek soru havuzuna ekleyebilirsin.</p>
+    <input type="file" id="jsonDosya" accept=".json">
+    <button onclick="topluYukle()">JSON Dosyasını Yükle</button>
+    <p id="topluMesaj"></p>
+</div>
+
+<div class="card">
+    <h2>Kayıtlı Sorular</h2>
+
+    <input
+        type="text"
+        id="kayitAra"
+        placeholder="🔎 Kategori, soru veya anahtar kelime ara..."
+        oninput="kayitlariFiltrele()"
+    >
+
+    <div id="kayitlar">Kayıtlar yükleniyor...</div>
+</div>
+
+</div>
+</div>
+
+<script>
+const ADMIN_PASSWORD = "TAHAM12345";
+let tumKayitlar = [];
+
+function baslikMesaji(id, mesaj) {
+    document.getElementById(id).textContent = mesaj;
+}
+
+async function istek(url, method = "GET", veri = null) {
+    const ayarlar = {
+        method,
+        headers: {
+            "x-admin-password": ADMIN_PASSWORD
+        }
+    };
+
+    if (veri !== null) {
+        ayarlar.headers["Content-Type"] = "application/json";
+        ayarlar.body = JSON.stringify(veri);
+    }
+
+    const cevap = await fetch(url, ayarlar);
+
+    if (!cevap.ok) {
+        throw new Error("İşlem başarısız: " + cevap.status);
+    }
+
+    return cevap.json();
+}
+
+async function girisYap() {
+    const sifre = document.getElementById("sifre").value;
+
+    if (sifre !== ADMIN_PASSWORD) {
+        baslikMesaji("girisMesaj", "Şifre yanlış!");
+        return;
+    }
+
+    document.getElementById("giris").style.display = "none";
+    document.getElementById("panel").style.display = "block";
+
+    await kayitlariGetir();
+}
+
+async function kayitlariGetir() {
+    const alan = document.getElementById("kayitlar");
+    alan.textContent = "Kayıtlar yükleniyor...";
+
+    try {
+        const veri = await istek("/api/admin/sorular");
+        tumKayitlar = Array.isArray(veri) ? veri : (veri.sorular || []);
+
+        document.getElementById("toplamKayit").textContent = tumKayitlar.length;
+
+        const kategoriler = [...new Set(
+            tumKayitlar.map(x => x.kategori).filter(Boolean)
+        )];
+
+        document.getElementById("toplamKategori").textContent = kategoriler.length;
+
+        const dagilim = {};
+        tumKayitlar.forEach(x => {
+            const k = x.kategori || "Kategorisiz";
+            dagilim[k] = (dagilim[k] || 0) + 1;
+        });
+
+        document.getElementById("kategoriIstatistikleri").innerHTML =
+            Object.entries(dagilim).map(([ad, sayi]) =>
+                `<p>${guvenli(ad)}: <strong>${sayi}</strong> kayıt</p>`
+            ).join("") || "Henüz kayıt yok.";
+
+        kayitlariFiltrele();
+
+    } catch (hata) {
+        alan.textContent = hata.message;
+    }
+}
+
+function guvenli(metin) {
+    return String(metin ?? "").replace(/[&<>"']/g, karakter => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#39;"
+    })[karakter]);
+}
+
+function kayitlariFiltrele() {
+    const arama = document.getElementById("kayitAra").value.toLocaleLowerCase("tr");
+    const bulunanlar = tumKayitlar
+        .map((kayit, indeks) => ({ kayit, indeks }))
+        .filter(({ kayit }) => {
+            const metin = [
+                kayit.kategori,
+                ...(kayit.sorular || []),
+                ...(kayit.anahtarlar || []),
+                kayit.cevap
+            ].join(" ").toLocaleLowerCase("tr");
+
+            return metin.includes(arama);
+        });
+
+    const alan = document.getElementById("kayitlar");
+
+    if (bulunanlar.length === 0) {
+        alan.textContent = "Aramayla eşleşen kayıt bulunamadı.";
+        return;
+    }
+
+    alan.innerHTML = bulunanlar.map(({ kayit, indeks }) => `
+        <div class="kayit">
+            <p class="kategori">${guvenli(kayit.kategori)}</p>
+            <h3>${(kayit.sorular || []).map(guvenli).join("<br>")}</h3>
+            <p><strong>Anahtar kelimeler:</strong> ${guvenli((kayit.anahtarlar || []).join(", "))}</p>
+            <p>${guvenli(kayit.cevap)}</p>
+            <p><strong>Kaynak:</strong> ${guvenli(kayit.kaynak)}</p>
+            <p><strong>Bağlantı:</strong> ${guvenli(kayit.link)}</p>
+            <button class="duzenle" onclick="soruDuzenle(${indeks})">Düzenle</button>
+            <button class="sil" onclick="soruSil(${indeks})">Sil</button>
+        </div>
+    `).join("");
+}
+
+async function soruEkle() {
+    const kayit = {
+        kategori: document.getElementById("kategori").value.trim(),
+        sorular: document.getElementById("sorular").value.split("\n").map(x => x.trim()).filter(Boolean),
+        anahtarlar: document.getElementById("anahtarlar").value.split(",").map(x => x.trim()).filter(Boolean),
+        cevap: document.getElementById("cevap").value.trim(),
+        link: document.getElementById("link").value.trim(),
+        kaynak: document.getElementById("kaynak").value.trim()
+    };
+
+    if (!kayit.kategori || !kayit.sorular.length || !kayit.cevap) {
+        baslikMesaji("eklemeMesaji", "Kategori, soru ve cevap zorunludur.");
+        return;
+    }
+
+    try {
+        await istek("/api/admin/sorular", "POST", kayit);
+        baslikMesaji("eklemeMesaji", "Soru başarıyla eklendi.");
+
+        ["kategori", "sorular", "anahtarlar", "cevap", "link", "kaynak"]
+            .forEach(id => document.getElementById(id).value = "");
+
+        await kayitlariGetir();
+    } catch (hata) {
+        baslikMesaji("eklemeMesaji", hata.message);
+    }
+}
+
+async function soruSil(indeks) {
+    if (!confirm("Bu kaydı silmek istediğine emin misin?")) return;
+
+    try {
+        const kayit = tumKayitlar[indeks];
+        await istek("/api/admin/sorular/" + kayit.id, "DELETE");
+        await kayitlariGetir();
+    } catch (hata) {
+        alert(hata.message);
+    }
+}
+
+async function soruDuzenle(indeks) {
+    const kayit = tumKayitlar[indeks];
+
+    const kategori = prompt("Kategori:", kayit.kategori || "");
+    if (kategori === null) return;
+
+    const sorular = prompt("Sorular (her satıra bir soru):", (kayit.sorular || []).join("\n"));
+    if (sorular === null) return;
+
+    const anahtarlar = prompt("Anahtar kelimeler (virgülle ayır):", (kayit.anahtarlar || []).join(", "));
+    if (anahtarlar === null) return;
+
+    const cevap = prompt("Cevap:", kayit.cevap || "");
+    if (cevap === null) return;
+
+    const link = prompt("Bağlantı:", kayit.link || "");
+    if (link === null) return;
+
+    const kaynak = prompt("Kaynak:", kayit.kaynak || "");
+    if (kaynak === null) return;
+
+    try {
+        await istek("/api/admin/sorular/" + kayit.id, "PUT", {
+            kategori,
+            sorular: sorular.split("\n").map(x => x.trim()).filter(Boolean),
+            anahtarlar: anahtarlar.split(",").map(x => x.trim()).filter(Boolean),
+            cevap,
+            link,
+            kaynak
+        });
+
+        await kayitlariGetir();
+    } catch (hata) {
+        alert(hata.message);
+    }
+}
+
+async function topluYukle() {
+    const dosya = document.getElementById("jsonDosya").files[0];
+
+    if (!dosya) {
+        baslikMesaji("topluMesaj", "Önce JSON dosyası seç.");
+        return;
+    }
+
+    try {
+        const metin = await dosya.text();
+        const kayitlar = JSON.parse(metin);
+
+        if (!Array.isArray(kayitlar)) {
+            throw new Error("JSON dosyası bir kayıt listesi olmalı.");
+        }
+
+        let eklenen = 0;
+
+        for (const kayit of kayitlar) {
+            if (!kayit.kategori || !Array.isArray(kayit.sorular) || !kayit.cevap) {
+                throw new Error("Dosyada hatalı kayıt var.");
+            }
+
+            await istek("/api/admin/sorular", "POST", kayit);
+            eklenen++;
+        }
+
+        baslikMesaji("topluMesaj", eklenen + " kayıt başarıyla yüklendi.");
+        await kayitlariGetir();
+
+    } catch (hata) {
+        baslikMesaji("topluMesaj", "Hata: " + hata.message);
+        await kayitlariGetir();
+    }
+}
+</script>
+</body>
+</html>
